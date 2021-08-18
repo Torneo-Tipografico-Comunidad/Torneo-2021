@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="2">
+	<advance width="542"/>
+	<unicode hex="0076"/>
+	<outline>
+		<contour>
+			<point x="227" y="0" type="line"/>
+			<point x="290" y="0" type="line" smooth="yes"/>
+			<point x="308" y="0" type="line"/>
+			<point x="474" y="420" type="line" smooth="yes"/>
+			<point x="490" y="456"/>
+			<point x="507" y="468"/>
+			<point x="522" y="468" type="curve" smooth="yes"/>
+			<point x="522" y="468"/>
+			<point x="512" y="514"/>
+			<point x="457" y="514" type="curve" smooth="yes"/>
+			<point x="403" y="514"/>
+			<point x="379" y="470"/>
+			<point x="361" y="417" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="227" y="0" type="line"/>
+			<point x="271" y="0" type="line" smooth="yes"/>
+			<point x="308" y="0" type="line"/>
+			<point x="147" y="500" type="line"/>
+			<point x="30" y="500" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-08-18 13:57:46 +0000</string>
+		</dict>
+	</lib>
+</glyph>

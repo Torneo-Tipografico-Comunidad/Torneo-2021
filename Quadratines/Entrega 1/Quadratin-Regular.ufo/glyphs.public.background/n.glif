@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="2">
+	<advance width="545"/>
+	<guideline x="-4" y="514" angle="0"/>
+	<guideline x="-4" y="514" angle="0"/>
+	<outline>
+		<contour>
+			<point x="180" y="448" type="move"/>
+		</contour>
+		<contour>
+			<point x="180" y="448" type="move"/>
+		</contour>
+		<contour>
+			<point x="60" y="631" type="line"/>
+			<point x="60" y="0" type="line"/>
+			<point x="150" y="0" type="line"/>
+			<point x="150" y="631" type="line"/>
+		</contour>
+		<contour>
+			<point x="371" y="631" type="line"/>
+			<point x="371" y="0" type="line"/>
+			<point x="461" y="0" type="line"/>
+			<point x="461" y="631" type="line"/>
+		</contour>
+		<contour>
+			<point x="-3" y="499" type="line"/>
+			<point x="-3" y="421" type="line"/>
+			<point x="172" y="421"/>
+			<point x="346" y="421"/>
+			<point x="521" y="421" type="curve"/>
+			<point x="521" y="499" type="line"/>
+		</contour>
+		<contour>
+			<point x="-3" y="78" type="line"/>
+			<point x="-3" y="0" type="line"/>
+			<point x="521" y="0" type="line"/>
+			<point x="521" y="78" type="line"/>
+		</contour>
+	</outline>
+</glyph>
