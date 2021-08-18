@@ -7,5 +7,5 @@
 2. Pedro Subercaseaux — Captain
 3. Alejandra Olivares — Player
 4. Alejandro Bautista — Player
-\
-## 2nd Typographic Tournament of the Letrástica Community, August-September 2021
+
+### 2nd Typographic Tournament of the Letrástica Community, August-September 2021
