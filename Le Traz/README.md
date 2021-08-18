@@ -1,6 +1,6 @@
 # 2nd Typographic Tournament of the Letrástica Community, August-September 2021
 
-![Le "Traz" Logo](../images/leTrazLogo.png)
+![Le "Traz" Logo](/Le Traz/images/leTrazLogo.png)
 Format: ![Team logo](url)
 
 ## We are the team Le "Traz"
