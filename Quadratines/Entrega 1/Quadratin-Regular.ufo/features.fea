@@ -1,0 +1,12 @@
+# Prefix: Prefix
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \a \b \c 
+	\comma \d \e \eight \f \five \four \g \h \hyphen \i \j \k \l \m \n \n.001 \nine \o \one \p 
+	\period \q \r \s \seven \six \space \t \three \two \u \v \w \x \y \z \zero ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
