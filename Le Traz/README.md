@@ -1,4 +1,4 @@
-# We are the team:  Le "Traz"
+# We are the team:__ Le "Traz"
 
 ![Logo](./images/leTrazLogo.png)
 
@@ -7,6 +7,6 @@
 2. Pedro Subercaseaux — Captain
 3. Alejandra Olivares — Player
 4. Alejandro Bautista — Player
-
-
-2nd Typographic Tournament of the Letrástica Community, August-September 2021
+__
+__
+##2nd Typographic Tournament of the Letrástica Community, August-September 2021
