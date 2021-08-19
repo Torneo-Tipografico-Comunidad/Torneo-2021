@@ -1,6 +1,6 @@
 # We are the team: Le "Traz"
 
-![Logo](./images/leTrazLogo.png)
+![Logo](./_images/leTrazLogo.png)
 
 ## Team members:
 1. [Eduardo Aire](https://www.instagram.com/eduairet) — Leader

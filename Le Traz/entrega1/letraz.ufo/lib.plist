@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+		<string>HEH
+OEO
+nEn
+oEo
+HHH
+OHO
+nHn
+oHo
+HIH
+OIO
+nIn
+oIo
+HOH
+OOO
+nOn
+oOo
+HPH
+OPO
+nPn
+oPo
+HTH
+OTO
+nTn
+oTo
+HbH
+ObO
+nbn
+obo
+HeH
+OeO
+nen
+oeo
+HıH
+OıO
+nın
+oıo
+HlH
+OlO
+nln
+olo
+HnH
+OnO
+nnn
+ono
+HoH
+OoO
+non
+ooo
+HqH
+OqO
+nqn
+oqo
+HvH
+OvO
+nvn
+ovo
+HiH
+OiO
+nin
+oio
+</string>
+		<string>E</string>
+	</array>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>master01</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<array>
+		<string>.notdef</string>
+		<string>space</string>
+		<string>E</string>
+		<string>H</string>
+		<string>I</string>
+		<string>O</string>
+		<string>P</string>
+		<string>T</string>
+		<string>b</string>
+		<string>e</string>
+		<string>idotless</string>
+		<string>l</string>
+		<string>n</string>
+		<string>o</string>
+		<string>q</string>
+		<string>v</string>
+		<string>i</string>
+		<string>oacute</string>
+		<string>acute</string>
+		<string>dotaccent</string>
+		<string>acutecomb</string>
+		<string>dotaccentcomb</string>
+	</array>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
+	<key>public.glyphOrder</key>
+	<array>
+		<string>.notdef</string>
+		<string>space</string>
+		<string>E</string>
+		<string>H</string>
+		<string>I</string>
+		<string>O</string>
+		<string>P</string>
+		<string>T</string>
+		<string>b</string>
+		<string>e</string>
+		<string>idotless</string>
+		<string>l</string>
+		<string>n</string>
+		<string>o</string>
+		<string>q</string>
+		<string>v</string>
+		<string>i</string>
+		<string>oacute</string>
+		<string>acute</string>
+		<string>dotaccent</string>
+		<string>acutecomb</string>
+		<string>dotaccentcomb</string>
+	</array>
+	<key>public.postscriptNames</key>
+	<dict>
+		<key>dotaccentcomb</key>
+		<string>uni0307</string>
+		<key>idotless</key>
+		<string>dotlessi</string>
+	</dict>
+</dict>
+</plist>

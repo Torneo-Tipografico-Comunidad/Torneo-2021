@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>700</integer>
+	<key>capHeight</key>
+	<integer>650</integer>
+	<key>copyright</key>
+	<string>Copyright © 2021 by Eduardo Aire, Pedro Sosa, Alejandra Olivares, Alejandro Bautista. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>familyName</key>
+	<string>LeTraz</string>
+	<key>openTypeHeadCreated</key>
+	<string>2021/08/18 23:10:35</string>
+	<key>openTypeNameDesigner</key>
+	<string>Eduardo Aire, Pedro Sosa, Alejandra Olivares, Alejandro Bautista</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>https://github.com/Torneo-Tipografico-Comunidad/Torneo-2021</string>
+	<key>openTypeNameManufacturer</key>
+	<string></string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<real>-10.0</real>
+		<real>0.0</real>
+		<real>500.0</real>
+		<real>510.0</real>
+		<real>650.0</real>
+		<real>660.0</real>
+		<real>700.0</real>
+		<real>710.0</real>
+	</array>
+	<key>postscriptFontName</key>
+	<string>LeTraz-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<real>-210.0</real>
+		<real>-200.0</real>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>
