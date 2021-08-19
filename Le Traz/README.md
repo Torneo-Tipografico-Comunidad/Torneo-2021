@@ -3,9 +3,10 @@
 ![Logo](./_images/leTrazLogo.png)
 
 ## Team members:
-1. [Eduardo Aire](https://www.instagram.com/eduairet) — Leader
-2. [Pedro Subercaseaux](https://www.instagram.com/pedro_subercaseaux) — Captain
-3. [Alejandra Olivares](https://www.instagram.com/im.ale.o) — Player
-4. [Alejandro Bautista](https://www.instagram.com/el_letritas) — Player
+[Alejandro Bautista](https://www.instagram.com/el_letritas) · [Alejandra Olivares](https://www.instagram.com/im.ale.o) · [Eduardo Aire](https://www.instagram.com/eduairet) · [Pedro Subercaseaux](https://www.instagram.com/pedro_subercaseaux)
+
+## Our Typeface
+
+LeTraz-Regular is a typeface intended to be part of any kind of festival.
 
 ### 2nd Typographic Tournament of the Letrástica Community, August-September 2021
