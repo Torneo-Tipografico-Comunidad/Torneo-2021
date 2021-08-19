@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+	<advance width="252"/>
+	<unicode hex="0049"/>
+	<anchor x="126" y="650" name="top"/>
+	<outline>
+		<contour>
+			<point x="75" y="650" type="line"/>
+			<point x="75" y="0" type="line"/>
+			<point x="177" y="0" type="line"/>
+			<point x="177" y="650" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-08-18 22:56:07 +0000</string>
+		</dict>
+	</lib>
+</glyph>

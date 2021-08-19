@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0301"/>
+	<anchor x="0" y="500" name="_top"/>
+	<outline>
+		<contour>
+			<point x="-50" y="575" type="line"/>
+			<point x="39" y="575" type="line"/>
+			<point x="150" y="739" type="line"/>
+			<point x="20" y="741" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-08-18 03:49:51 +0000</string>
+		</dict>
+	</lib>
+</glyph>

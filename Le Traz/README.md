@@ -1,3 +1,11 @@
-# 1st Typographic Tournament of the Letrástica Community 2020
+# We are the team: Le "Traz"
 
-This is the repository for the projects originating from the *2nd Typographic Tournament of the Letrástica Community, August-September 2021* which is an 8-week long friendly competition, among the Mexican and Latin American Type community where 8 Teams, each one a range of designers from beginners to experienced professionals, developed a proposal for a text face optimized for screens. A board of professionals assign points and give weekly feedback with excited fans following along on a video call.
+![Logo](./_images/leTrazLogo.png)
+
+## Team members:
+1. [Eduardo Aire](https://www.instagram.com/eduairet) — Leader
+2. [Pedro Subercaseaux](https://www.instagram.com/pedro_subercaseaux) — Captain
+3. [Alejandra Olivares](https://www.instagram.com/im.ale.o) — Player
+4. [Alejandro Bautista](https://www.instagram.com/el_letritas) — Player
+
+### 2nd Typographic Tournament of the Letrástica Community, August-September 2021
