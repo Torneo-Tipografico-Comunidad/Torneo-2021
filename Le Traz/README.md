@@ -4,10 +4,10 @@
 
 ## Team members:
 <p>
-<a href="https://www.instagram.com/el_letritas" target="_blank">Alejandro Bautista</a> · 
-<a href="https://www.instagram.com/im.ale.o" target="_blank">Alejandra Olivares</a> · 
-<a href="https://www.instagram.com/eduairet" target="_blank">Eduardo Aire</a> · 
-<a href="https://www.instagram.com/pedro_subercaseaux" target="_blank">Pedro Sosa</a> · 
+<a href="https://www.instagram.com/el_letritas" target="blank">Alejandro Bautista</a> · 
+<a href="https://www.instagram.com/im.ale.o" target="blank">Alejandra Olivares</a> · 
+<a href="https://www.instagram.com/eduairet" target="blank">Eduardo Aire</a> · 
+<a href="https://www.instagram.com/pedro_subercaseaux" target="blank">Pedro Sosa</a> · 
 Sandra Morales
 </p> 
 
