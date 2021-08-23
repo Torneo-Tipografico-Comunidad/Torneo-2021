@@ -3,13 +3,11 @@
 ![Logo](./_images/leTrazLogo.png)
 
 ## Team members:
-<p>
-<a href="https://www.instagram.com/el_letritas" target="blank">Alejandro Bautista</a> · 
-<a href="https://www.instagram.com/im.ale.o" target="blank">Alejandra Olivares</a> · 
-<a href="https://www.instagram.com/eduairet" target="blank">Eduardo Aire</a> · 
-<a href="https://www.instagram.com/pedro_subercaseaux" target="blank">Pedro Sosa</a> · 
-Sandra Morales
-</p> 
+- [Alejandro Bautista](https://github.com/mataviniles){:target="_blank"}
+- [Alejandra Olivares](https://github.com/AleO16){:target="_blank"}
+- [Eduardo Aire](https://github.com/eduairet){:target="_blank"}
+- [Pedro Sosa](https://github.com/pedro-subercaseaux){:target="_blank"}
+- [Sandra Morales](https://github.com/typeofshe){:target="_blank"}
 
 ## Our Typeface
 
