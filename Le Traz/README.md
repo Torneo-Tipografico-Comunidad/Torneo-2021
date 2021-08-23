@@ -1,13 +1,13 @@
 # We are the team: Le "Traz"
-<br/>
+
 ![Logo](./_images/leTrazLogo.png)
-<br/>
+
 ## Team members:
 [Alejandro Bautista](https://github.com/mataviniles) · [Alejandra Olivares](https://github.com/AleO16) · [Eduardo Aire](https://github.com/eduairet) · [Pedro Sosa](https://github.com/pedro-subercaseaux) · [Sandra Morales](https://github.com/typeofshe)
-<br/>
+
 ## Our Typeface
 LeTraz is a typeface intended to be part of any kind of festival.
-<br/>
+
 ## Our anthem
 Somos "Le Traz"
 y nuestras barras te atraviesan.
@@ -18,17 +18,17 @@ por un vato que ¡no pudo aguantarnos!
 Alejandra viene con todo
 Y cuidado ¡porque miro debe estar bien organizado!
 Y al final está Alejandro, que viene de CRAMM
-A reclamar el primer lugar del torneo pasado.
-<br/>
+A reclamar el primer lugar del torneo pasado.  
+
 Somos "Le Traz"
 Y si el nodo no coordina,
 toma la pluma
-y dibuja más arriba.
-<br/>
+y dibuja más arriba   
+
 "Le Traz"
 "Le Traz"
-"Le Traz"
-<br/>
+"Le Traz"   
+
 by Ricardo Lopez
 <br/><br/>
 ### 2nd Typographic Tournament of the Letrástica Community, August-September 2021
