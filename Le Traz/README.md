@@ -18,16 +18,16 @@ por un vato que ¡no pudo aguantarnos!\
 Alejandra viene con todo\
 Y cuidado ¡porque miro debe estar bien organizado!\
 Y al final está Alejandro, que viene de CRAMM\
-A reclamar el primer lugar del torneo pasado.\\ 
-
+A reclamar el primer lugar del torneo pasado.
+\
 Somos "Le Traz"\
 Y si el nodo no coordina,\
 toma la pluma\
-y dibuja más arriba\\
-
+y dibuja más arriba
+\
 "Le Traz"\
 "Le Traz"\
-"Le Traz"\  
+"Le Traz"
 
 by Ricardo Lopez
 
