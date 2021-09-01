@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="2">
+	<advance width="385.15"/>
+	<unicode hex="0066"/>
+	<outline>
+		<contour>
+			<point x="77.76" y="0.493" type="curve"/>
+			<point x="221.422" y="0.493" type="line"/>
+			<point x="225.34" y="548.762" type="line"/>
+			<point x="225.592" y="584.012"/>
+			<point x="214.04744" y="637.41747"/>
+			<point x="218.096" y="654.511" type="curve" smooth="yes"/>
+			<point x="221.49999" y="668.88309"/>
+			<point x="233.8635" y="682.84302"/>
+			<point x="244.37221" y="690.66795" type="curve" smooth="yes"/>
+			<point x="256.42485" y="699.64252"/>
+			<point x="278.26332" y="700.264"/>
+			<point x="300.8449" y="700.264" type="curve" smooth="yes"/>
+			<point x="320.12841" y="700.264"/>
+			<point x="351.75" y="687.0218"/>
+			<point x="374.8" y="671.3828" type="curve"/>
+			<point x="384.918" y="701.2958"/>
+			<point x="395.035" y="723.849"/>
+			<point x="405.153" y="743.762" type="curve"/>
+			<point x="388.814" y="770.352"/>
+			<point x="339.829" y="807.089"/>
+			<point x="279.402" y="807.074" type="curve" smooth="yes"/>
+			<point x="219.781" y="807.059"/>
+			<point x="161.672" y="784.2"/>
+			<point x="153.109" y="778.278" type="curve" smooth="yes"/>
+			<point x="143.917" y="772.898"/>
+			<point x="87.171" y="708.512"/>
+			<point x="81.313" y="702.398" type="curve"/>
+			<point x="110.076" y="560.379"/>
+			<point x="95.011" y="556.326"/>
+			<point x="95.059" y="411.717" type="curve" smooth="yes"/>
+			<point x="95.102" y="285.376"/>
+			<point x="88.704" y="70.726"/>
+		</contour>
+		<contour>
+			<point x="28.003" y="504.179" type="line"/>
+			<point x="118.003" y="504.179"/>
+			<point x="271.98" y="504.179"/>
+			<point x="361.98" y="504.179" type="curve"/>
+			<point x="361.98" y="592.179" type="line"/>
+			<point x="340.053" y="590.954"/>
+			<point x="275.606" y="587.816"/>
+			<point x="195.018" y="588.115" type="curve" smooth="yes"/>
+			<point x="103.188" y="588.459"/>
+			<point x="63.517" y="581.343"/>
+			<point x="28.003" y="568.851" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-01 05:14:05 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>
