@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="2">
+	<advance width="618"/>
+	<unicode hex="0050"/>
+	<outline>
+		<contour>
+			<point x="304" y="277" type="curve" smooth="yes"/>
+			<point x="152" y="277" type="line"/>
+			<point x="152" y="180" type="line"/>
+			<point x="304" y="180" type="line" smooth="yes"/>
+			<point x="505" y="180"/>
+			<point x="583" y="253"/>
+			<point x="583" y="415" type="curve" smooth="yes"/>
+			<point x="583" y="577"/>
+			<point x="505" y="650"/>
+			<point x="304" y="650" type="curve" smooth="yes"/>
+			<point x="75" y="650" type="line"/>
+			<point x="75" y="0" type="line"/>
+			<point x="178" y="0" type="line"/>
+			<point x="178" y="590" type="line"/>
+			<point x="157" y="553" type="line"/>
+			<point x="304" y="553" type="line" smooth="yes"/>
+			<point x="432" y="553"/>
+			<point x="483" y="510"/>
+			<point x="483" y="415" type="curve" smooth="yes"/>
+			<point x="483" y="320"/>
+			<point x="432" y="277"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-08-31 19:12:42 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
+</glyph>
