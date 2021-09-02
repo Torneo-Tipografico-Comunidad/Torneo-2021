@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c" format="2">
+	<advance width="569"/>
+	<unicode hex="0063"/>
+	<anchor x="305" y="500" name="top"/>
+	<outline>
+		<contour>
+			<point x="305" y="-15" type="curve" smooth="yes"/>
+			<point x="424" y="-15"/>
+			<point x="497" y="21"/>
+			<point x="534" y="92" type="curve"/>
+			<point x="444" y="134" type="line"/>
+			<point x="418" y="94"/>
+			<point x="372" y="73"/>
+			<point x="305" y="73" type="curve" smooth="yes"/>
+			<point x="189" y="73"/>
+			<point x="138" y="136"/>
+			<point x="138" y="250" type="curve" smooth="yes"/>
+			<point x="138" y="364"/>
+			<point x="189" y="427"/>
+			<point x="305" y="427" type="curve" smooth="yes"/>
+			<point x="373" y="427"/>
+			<point x="418" y="406"/>
+			<point x="444" y="365" type="curve"/>
+			<point x="534" y="408" type="line"/>
+			<point x="497" y="480"/>
+			<point x="424" y="515"/>
+			<point x="305" y="515" type="curve" smooth="yes"/>
+			<point x="117" y="515"/>
+			<point x="45" y="427"/>
+			<point x="45" y="250" type="curve" smooth="yes"/>
+			<point x="45" y="73"/>
+			<point x="117" y="-15"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-01 15:56:56 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>o</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="2">
+	<advance width="570"/>
+	<outline>
+		<contour>
+			<point x="75" y="-200" type="line"/>
+			<point x="495" y="-200" type="line"/>
+			<point x="495" y="750" type="line"/>
+			<point x="75" y="750" type="line"/>
+		</contour>
+		<contour>
+			<point x="170" y="-110" type="line"/>
+			<point x="170" y="660" type="line"/>
+			<point x="400" y="660" type="line"/>
+			<point x="400" y="-110" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-08-31 19:18:34 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
+</glyph>
