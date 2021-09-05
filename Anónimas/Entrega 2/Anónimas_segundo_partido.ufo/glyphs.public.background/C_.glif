@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="2">
+	<advance width="669"/>
+	<outline>
+		<contour>
+			<point x="346" y="-12" type="move" smooth="yes"/>
+			<point x="161" y="-12"/>
+			<point x="30" y="111"/>
+			<point x="30" y="343" type="curve" smooth="yes"/>
+		</contour>
+		<component base="G" xOffset="-23"/>
+	</outline>
+</glyph>

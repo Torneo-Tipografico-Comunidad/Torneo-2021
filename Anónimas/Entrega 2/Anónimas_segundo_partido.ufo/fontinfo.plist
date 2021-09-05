@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>780</integer>
+	<key>capHeight</key>
+	<integer>730</integer>
+	<key>copyright</key>
+	<string>Copyright © 2021 by Anonimas team. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-190</integer>
+	<key>familyName</key>
+	<string>Tans Sans</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>374</integer>
+			<key>y</key>
+			<integer>119</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>392</integer>
+			<key>y</key>
+			<integer>611</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>371</integer>
+			<key>y</key>
+			<integer>388</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>90</integer>
+			<key>x</key>
+			<integer>400</integer>
+			<key>y</key>
+			<integer>500</integer>
+		</dict>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2021/08/16 11:50:10</string>
+	<key>openTypeHeadFlags</key>
+	<array/>
+	<key>openTypeNameDesigner</key>
+	<string>Anonimas team</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Torneo Comunidad Letrastica</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>anonimassegundopartido</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.000</string>
+	<key>openTypeOS2Selection</key>
+	<array/>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>800</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-196</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>100</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>760</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>230</integer>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.04</real>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<real>-10.0</real>
+		<real>0.0</real>
+		<real>500.0</real>
+		<real>510.0</real>
+		<real>730.0</real>
+		<real>740.0</real>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Anonimas_segundo_partido-Regular</string>
+	<key>postscriptForceBold</key>
+	<false/>
+	<key>postscriptIsFixedPitch</key>
+	<false/>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<real>-200.0</real>
+		<real>-190.0</real>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>

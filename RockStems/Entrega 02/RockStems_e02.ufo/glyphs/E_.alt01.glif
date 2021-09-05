@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.alt01" format="2">
+	<advance width="492"/>
+	<outline>
+		<contour>
+			<point x="82" y="0" type="line"/>
+			<point x="448" y="0" type="line"/>
+			<point x="448" y="80" type="line"/>
+			<point x="182" y="80" type="line"/>
+			<point x="182" y="312" type="line"/>
+			<point x="411" y="304" type="line"/>
+			<point x="411" y="396" type="line"/>
+			<point x="182" y="388" type="line"/>
+			<point x="182" y="600" type="line"/>
+			<point x="448" y="600" type="line"/>
+			<point x="448" y="680" type="line"/>
+			<point x="82" y="680" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-08-29 21:08:27 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
+</glyph>

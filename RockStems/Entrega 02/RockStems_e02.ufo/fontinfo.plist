@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>capHeight</key>
+	<integer>680</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>familyName</key>
+	<string>RockStems_Untitled</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>name</key>
+			<string>x-height</string>
+			<key>x</key>
+			<integer>2</integer>
+			<key>y</key>
+			<integer>500</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>stem width</string>
+			<key>y</key>
+			<integer>250</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>baseline</string>
+			<key>y</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>name</key>
+			<string>cap-height</string>
+			<key>x</key>
+			<integer>-1</integer>
+			<key>y</key>
+			<integer>680</integer>
+		</dict>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2021/08/24 21:31:37</string>
+	<key>openTypeHheaAscender</key>
+	<integer>750</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-250</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Adriana Garcidueñas Villalobos, Cris R Hernández, Liliana Cerdio, Luis Valencia Cordova, Mara Osman</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>290</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>50</integer>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>750</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-250</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>200</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>952</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>250</integer>
+	<key>postscriptBlueValues</key>
+	<array/>
+	<key>postscriptFontName</key>
+	<string>RockStems_Untitled-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>
