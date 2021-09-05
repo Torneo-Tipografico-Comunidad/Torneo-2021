@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F.alt01" format="2">
+	<advance width="482"/>
+	<outline>
+		<contour>
+			<point x="84" y="0" type="line"/>
+			<point x="184" y="0" type="line"/>
+			<point x="184" y="292" type="line"/>
+			<point x="413" y="284" type="line"/>
+			<point x="413" y="376" type="line"/>
+			<point x="184" y="368" type="line"/>
+			<point x="184" y="598" type="line"/>
+			<point x="450" y="590" type="line"/>
+			<point x="450" y="680" type="line"/>
+			<point x="84" y="680" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-08-29 20:39:26 +0000</string>
+		</dict>
+	</lib>
+</glyph>

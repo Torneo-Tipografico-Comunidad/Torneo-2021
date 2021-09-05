@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="2">
+	<advance width="722"/>
+	<unicode hex="0077"/>
+	<outline>
+		<contour>
+			<point x="152" y="0" type="line"/>
+			<point x="252" y="0" type="line"/>
+			<point x="379" y="406" type="line"/>
+			<point x="343" y="406" type="line"/>
+			<point x="466" y="0" type="line"/>
+			<point x="566" y="0" type="line"/>
+			<point x="722" y="500" type="line"/>
+			<point x="628" y="500" type="line"/>
+			<point x="510" y="18" type="line"/>
+			<point x="548" y="18" type="line"/>
+			<point x="404" y="500" type="line"/>
+			<point x="324" y="500" type="line"/>
+			<point x="186" y="18" type="line"/>
+			<point x="226" y="18" type="line"/>
+			<point x="102" y="500" type="line"/>
+			<point x="0" y="500" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-08-31 03:17:05 +0000</string>
+			<key>public.markColor</key>
+			<string>0.85,0.26,0.06,1</string>
+		</dict>
+	</lib>
+</glyph>

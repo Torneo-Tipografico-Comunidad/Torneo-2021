@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>familyName</key>
+	<string>Delbarrio Sans</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>stem width</string>
+			<key>y</key>
+			<integer>250</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>baseline</string>
+			<key>y</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>name</key>
+			<string>x-height</string>
+			<key>x</key>
+			<integer>2</integer>
+			<key>y</key>
+			<integer>500</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Overshoot</string>
+			<key>y</key>
+			<integer>714</integer>
+		</dict>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2021/08/18 02:48:03</string>
+	<key>openTypeNameDesigner</key>
+	<string>Adriana Garcidueñas Villalobos, Cris R Hernández, Liliana Cerdio, Luis Valencia Cordova, Mara Osman</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-14</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>514</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>UntitledRockStemTypeface-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>
