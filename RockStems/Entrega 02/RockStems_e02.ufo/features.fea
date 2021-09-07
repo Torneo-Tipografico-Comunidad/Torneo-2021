@@ -1,0 +1,12 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb tildecomb];
+	sub [i]' @CombiningTopAccents by [idotless];
+} ccmp_Other_1;
+} ccmp;
+

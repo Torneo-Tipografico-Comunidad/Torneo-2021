@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="2">
+	<advance width="651"/>
+	<unicode hex="0055"/>
+	<outline>
+		<contour>
+			<point x="325" y="-11" type="curve"/>
+			<point x="545" y="-11"/>
+			<point x="588" y="90"/>
+			<point x="588" y="404" type="curve"/>
+			<point x="588" y="531"/>
+			<point x="594" y="651"/>
+			<point x="604" y="778" type="curve"/>
+			<point x="448" y="778" type="line"/>
+			<point x="444" y="778"/>
+			<point x="448" y="506.23"/>
+			<point x="448" y="404" type="curve"/>
+			<point x="448" y="200"/>
+			<point x="451" y="103"/>
+			<point x="328" y="103" type="curve"/>
+			<point x="211" y="103"/>
+			<point x="204" y="200"/>
+			<point x="204" y="407" type="curve"/>
+			<point x="204" y="575.56164"/>
+			<point x="204" y="652.66667"/>
+			<point x="204" y="778" type="curve"/>
+			<point x="47" y="778" type="line"/>
+			<point x="57" y="651"/>
+			<point x="63" y="531"/>
+			<point x="63" y="404" type="curve"/>
+			<point x="63" y="90"/>
+			<point x="127" y="-11"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-01 18:23:41 +0000</string>
+		</dict>
+	</lib>
+</glyph>

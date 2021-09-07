@@ -1,0 +1,21 @@
+
+	markClass [acutecomb] <anchor 18 500> @mark_top;
+feature mark {
+	lookup marklatn {
+		pos base [o]  <anchor 300 510> mark @mark_top;
+		pos base [oacute]  <anchor 300 795> mark @mark_top;
+	} marklatn;
+	lookupflag 0;
+} mark;
+feature mkmk {
+	lookup mkmk_DFLT_top {
+		pos mark [acutecomb] <anchor 18 785> mark @mark_top;
+	} mkmk_DFLT_top;
+	lookupflag 0;
+} mkmk;
+table GDEF {
+ GlyphClassDef [o oacute],# Base 
+ , # Liga 
+ [acutecomb], # Mark 
+ ;
+ } GDEF;
