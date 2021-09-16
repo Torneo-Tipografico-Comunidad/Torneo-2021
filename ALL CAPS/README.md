@@ -1,3 +1,6 @@
-# 1st Typographic Tournament of the Letrástica Community 2020
+# Equipo All CAPS
+![Equipo All CAPS]('Imagenes/equipo.jpeg')
 
-This is the repository for the projects originating from the *2nd Typographic Tournament of the Letrástica Community, August-September 2021* which is an 8-week long friendly competition, among the Mexican and Latin American Type community where 8 Teams, each one a range of designers from beginners to experienced professionals, developed a proposal for a text face optimized for screens. A board of professionals assign points and give weekly feedback with excited fans following along on a video call.
+[Andrea](https://www.instagram.com/_andrea.buendia/) | [Pepino](https://www.instagram.com/pepsjj/) | [Tam](https://www.instagram.com/__tam.s/) | [Miguel](https://www.instagram.com/killetter/) | [Constanza](https://www.instagram.com/constanzarizzo/)
+
+![Jade font]('Imagenes/equipo.jpeg')
