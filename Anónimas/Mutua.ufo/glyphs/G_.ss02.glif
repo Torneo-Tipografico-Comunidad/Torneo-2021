@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G.ss02" format="2">
+	<advance width="703"/>
+	<outline>
+		<contour>
+			<point x="596" y="756" type="line"/>
+			<point x="280" y="756" type="line" smooth="yes"/>
+			<point x="168" y="756"/>
+			<point x="75" y="663"/>
+			<point x="75" y="528" type="curve"/>
+			<point x="75" y="230" type="line"/>
+			<point x="75" y="71"/>
+			<point x="142" y="0"/>
+			<point x="280" y="0" type="curve" smooth="yes"/>
+			<point x="350" y="0" type="line" smooth="yes"/>
+			<point x="460" y="0"/>
+			<point x="515" y="39"/>
+			<point x="526" y="124" type="curve"/>
+			<point x="544" y="124" type="line"/>
+			<point x="543" y="0" type="line"/>
+			<point x="648" y="0" type="line"/>
+			<point x="648" y="429" type="line"/>
+			<point x="374" y="429" type="line"/>
+			<point x="374" y="309" type="line"/>
+			<point x="518" y="309" type="line"/>
+			<point x="518" y="229" type="line"/>
+			<point x="518" y="141"/>
+			<point x="477" y="127"/>
+			<point x="404" y="127" type="curve"/>
+			<point x="211" y="127" type="line"/>
+			<point x="211" y="507" type="line" smooth="yes"/>
+			<point x="211" y="607"/>
+			<point x="251" y="629"/>
+			<point x="328" y="629" type="curve" smooth="yes"/>
+			<point x="596" y="629" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-15 23:21:39 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>G</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>G</string>
+		</dict>
+	</lib>
+</glyph>

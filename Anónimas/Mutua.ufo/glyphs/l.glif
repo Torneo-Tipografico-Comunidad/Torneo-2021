@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+	<advance width="228"/>
+	<unicode hex="006C"/>
+	<outline>
+		<contour>
+			<point x="51" y="778" type="line"/>
+			<point x="51" y="0" type="line"/>
+			<point x="177" y="0" type="line"/>
+			<point x="177" y="778" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-09 09:23:01 +0000</string>
+		</dict>
+	</lib>
+</glyph>
