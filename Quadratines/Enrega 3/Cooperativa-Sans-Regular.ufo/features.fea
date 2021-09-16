@@ -1,0 +1,15 @@
+# Prefix: Prefix
+@GDEF_Simple = [\A \B \C \CR \D \E \F \G \H \I \J \K \L \M \N \Ntilde \O \Odieresis \P \Q \R \S \T 
+	\U \V \W \X \Y \Z \a \aacute \ampersand \at \b \breve \c \caron \cedilla \circumflex 
+	\colon \comma \d \dotaccent \e \eacute \eight \exclam \exclamdown \f \five \four \g 
+	\g.alt \grave \h \hungarumlaut \hyphen \i \j \k \l \m \macron \n \nine \ntilde \o 
+	\oacute \odieresis \ogonek \one \overscore \p \p.001 \parenleft \parenright 
+	\period \q \question \questiondown \r \ring \s \semicolon \seven \six \space \t 
+	\three \tilde \two \u \v \w \x \y \z \zero ];
+@GDEF_Mark = [\acute \dieresis ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
+
+} GDEF;
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+	<advance width="440"/>
+	<unicode hex="00A8"/>
+	<outline>
+		<contour>
+			<point x="331" y="607" type="curve" smooth="yes"/>
+			<point x="364.33333" y="607"/>
+			<point x="390" y="631.33333"/>
+			<point x="390" y="670" type="curve" smooth="yes"/>
+			<point x="390" y="703.33333"/>
+			<point x="365.66667" y="727"/>
+			<point x="331" y="727" type="curve" smooth="yes"/>
+			<point x="296.33333" y="727"/>
+			<point x="270" y="703.33333"/>
+			<point x="270" y="670" type="curve" smooth="yes"/>
+			<point x="270" y="635.33333"/>
+			<point x="292.33333" y="607"/>
+		</contour>
+		<contour>
+			<point x="111" y="607" type="curve" smooth="yes"/>
+			<point x="144.33333" y="607"/>
+			<point x="170" y="631.33333"/>
+			<point x="170" y="670" type="curve" smooth="yes"/>
+			<point x="170" y="703.33333"/>
+			<point x="145.66667" y="727"/>
+			<point x="111" y="727" type="curve" smooth="yes"/>
+			<point x="76.33333" y="727"/>
+			<point x="50" y="703.33333"/>
+			<point x="50" y="670" type="curve" smooth="yes"/>
+			<point x="50" y="635.33333"/>
+			<point x="72.33333" y="607"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-15 07:26:19 +0000</string>
+		</dict>
+	</lib>
+</glyph>
