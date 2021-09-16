@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+	<advance width="252"/>
+	<unicode hex="003B"/>
+	<outline>
+		<component base="period" yOffset="406"/>
+		<component base="comma"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-13 14:48:21 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>period</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>period</string>
+		</dict>
+	</lib>
+</glyph>
