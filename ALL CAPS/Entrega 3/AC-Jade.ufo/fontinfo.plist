@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>780</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>descender</key>
+	<integer>-220</integer>
+	<key>familyName</key>
+	<string>AC-Jade</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>identifier</key>
+			<string>qWYkjuYtmg</string>
+			<key>x</key>
+			<integer>490</integer>
+			<key>y</key>
+			<integer>576</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>identifier</key>
+			<string>xfky10aIOS</string>
+			<key>x</key>
+			<integer>374</integer>
+			<key>y</key>
+			<integer>110</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>506</integer>
+			<key>y</key>
+			<integer>780</integer>
+		</dict>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2021/09/15 07:23:46</string>
+	<key>openTypeNameDesigner</key>
+	<string>Andrea Buendía, Constanza Rizzo, Juan José Melendez, Miguel Ángel Contreras, Tamara Segura</string>
+	<key>openTypeNameManufacturer</key>
+	<string>ALL CAPS</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<real>-10.0</real>
+		<real>0.0</real>
+		<real>510.0</real>
+		<real>520.0</real>
+		<real>700.0</real>
+		<real>710.0</real>
+	</array>
+	<key>postscriptFontName</key>
+	<string>AC-Jade-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<real>-230.0</real>
+		<real>-220.0</real>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>510</integer>
+</dict>
+</plist>
