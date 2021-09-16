@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="2">
+	<advance width="524.92"/>
+	<unicode hex="0046"/>
+	<outline>
+		<contour>
+			<point x="54" y="0" type="curve"/>
+			<point x="202" y="0" type="line"/>
+			<point x="202" y="744.941" type="line"/>
+			<point x="164.769" y="711.471" type="line"/>
+			<point x="285.674" y="711.471"/>
+			<point x="428.202" y="708.937"/>
+			<point x="484.919" y="704.937" type="curve"/>
+			<point x="484.919" y="799.937" type="line"/>
+			<point x="149.404" y="800.438" type="line" smooth="yes"/>
+			<point x="130.135" y="800.467"/>
+			<point x="86.449" y="787.751"/>
+			<point x="51.143" y="779.471" type="curve"/>
+			<point x="57.921" y="725.472"/>
+			<point x="62.495" y="645.948"/>
+			<point x="67.045" y="588.414" type="curve"/>
+			<point x="67.055" y="153.611" type="line"/>
+			<point x="67.055" y="128.688"/>
+			<point x="59.648" y="41.229"/>
+		</contour>
+		<contour>
+			<point x="188.143" y="341" type="line"/>
+			<point x="449.143" y="341" type="line"/>
+			<point x="449.143" y="435" type="line"/>
+			<point x="358.99" y="427.602"/>
+			<point x="278.27" y="426.622"/>
+			<point x="188.143" y="435" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-15 01:26:23 +0000</string>
+		</dict>
+	</lib>
+</glyph>
