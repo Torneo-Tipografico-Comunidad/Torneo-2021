@@ -1,0 +1,34 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature ss01;
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb dieresiscomb tildecomb];
+	sub [i]' @CombiningTopAccents by [idotless];
+} ccmp_Other_1;
+} ccmp;
+
+feature ss01 {
+# automatic
+sub Q by Q.ss01;
+sub g by g.ss01;
+} ss01;
+
+feature dlig {
+sub colon a u d i  colon by Auditorio;
+ sub colon b i b l i o colon by Biblioteca;
+ sub colon c o o p colon by Cooperativa;
+ sub colon c u b r e colon by Cubrebocas ;
+ sub colon h o m colon by Hombre;
+ sub colon m u j colon by Mujer;
+ sub colon l a b colon by Laboratorio;
+ sub colon l a v colon by Lavar;
+} dlig;
+

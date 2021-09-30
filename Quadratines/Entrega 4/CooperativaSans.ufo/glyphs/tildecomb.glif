@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="2">
+	<advance width="420"/>
+	<unicode hex="0303"/>
+	<anchor x="205" y="566" name="_top"/>
+	<outline>
+		<component base="tilde"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 08:06:58 +0000</string>
+		</dict>
+	</lib>
+</glyph>
