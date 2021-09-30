@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Banca" format="2">
+	<advance width="832"/>
+	<outline>
+		<contour>
+			<point x="84" y="341" type="line"/>
+			<point x="84" y="227" type="line"/>
+			<point x="748" y="227" type="line"/>
+			<point x="748" y="341" type="line"/>
+		</contour>
+		<contour>
+			<point x="160" y="510" type="line"/>
+			<point x="160" y="396" type="line"/>
+			<point x="673" y="396" type="line"/>
+			<point x="673" y="510" type="line"/>
+		</contour>
+		<contour>
+			<point x="160" y="679" type="line"/>
+			<point x="160" y="565" type="line"/>
+			<point x="673" y="565" type="line"/>
+			<point x="673" y="679" type="line"/>
+		</contour>
+		<contour>
+			<point x="280" y="236" type="line"/>
+			<point x="160" y="236" type="line"/>
+			<point x="160" y="0" type="line"/>
+			<point x="280" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="673" y="236" type="line"/>
+			<point x="553" y="236" type="line"/>
+			<point x="553" y="0" type="line"/>
+			<point x="673" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="280" y="756" type="line"/>
+			<point x="160" y="756" type="line"/>
+			<point x="160" y="604" type="line"/>
+			<point x="280" y="604" type="line"/>
+		</contour>
+		<contour>
+			<point x="673" y="756" type="line"/>
+			<point x="553" y="756" type="line"/>
+			<point x="553" y="604" type="line"/>
+			<point x="673" y="604" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-28 20:52:01 +0000</string>
+		</dict>
+	</lib>
+</glyph>

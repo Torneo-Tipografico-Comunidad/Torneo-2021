@@ -1,0 +1,112 @@
+@Uppercase = [A B C D E F G H I J K L M N Ntilde O Odieresis P Q R S T U V W X Y Z Aacute Eacute Iacute Oacute Uacute Udieresis
+];
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+feature aalt {
+feature salt;
+feature ss01;
+
+} aalt ;
+
+feature ccmp {
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb tildecomb];
+	sub [i]' @CombiningTopAccents by [dotlessi];
+} ccmp_Other_1;
+
+} ccmp ;
+
+feature salt {
+sub questiondown by questiondown.ss01;
+
+} salt ;
+
+feature ss01 {
+sub questiondown by questiondown.ss01;
+
+} ss01 ;
+
+
+feature kern {
+	lookup kern_latn {
+	lookupflag IgnoreMarks;
+		pos A B -9;
+		pos B C -9;
+		pos D E -43;
+		pos K L 17;
+		pos Q R 24;
+		pos T w -30;
+		pos W X -33;
+		pos Y e -94;
+		pos a t -20;
+		pos a v -46;
+		pos a w -40;
+		pos a y -26;
+		pos d o 7;
+		pos e k 11;
+		pos e y -33;
+		pos o e 6;
+		pos o j -19;
+		pos o v -22;
+		pos r e -7;
+		pos v a -27;
+		pos w o 0;
+	} kern_latn;
+	lookupflag 0;
+	script latn;
+	lookup kern_latn;
+	lookupflag 0;
+} kern;
+
+	markClass [uni0308] <anchor 0 556> @mark_top;
+	markClass [acutecomb] <anchor 0 556> @mark_top;
+	markClass [tildecomb] <anchor 316 556> @mark_top;
+feature mark {
+	lookup marklatn {
+		pos base [A]  <anchor 377 756> mark @mark_top;
+		pos base [E]  <anchor 383 756> mark @mark_top;
+		pos base [I]  <anchor 337 756> mark @mark_top;
+		pos base [N]  <anchor 436 756> mark @mark_top;
+		pos base [O]  <anchor 427 756> mark @mark_top;
+		pos base [Q]  <anchor 427 756> mark @mark_top;
+		pos base [U]  <anchor 388 756> mark @mark_top;
+		pos base [a]  <anchor 342 556> mark @mark_top;
+		pos base [e]  <anchor 334 556> mark @mark_top;
+		pos base [h]  <anchor 396 556> mark @mark_top;
+		pos base [n]  <anchor 396 556> mark @mark_top;
+		pos base [o]  <anchor 354 566> mark @mark_top;
+		pos base [u]  <anchor 325 556> mark @mark_top;
+		pos base [Aacute]  <anchor 377 756> mark @mark_top;
+		pos base [Eacute]  <anchor 383 756> mark @mark_top;
+		pos base [Iacute]  <anchor 337 756> mark @mark_top;
+		pos base [Ntilde]  <anchor 407 1026> mark @mark_top;
+		pos base [Oacute]  <anchor 427 756> mark @mark_top;
+		pos base [Odieresis]  <anchor 427 756> mark @mark_top;
+		pos base [Uacute]  <anchor 388 756> mark @mark_top;
+		pos base [Udieresis]  <anchor 388 756> mark @mark_top;
+		pos base [aacute]  <anchor 342 556> mark @mark_top;
+		pos base [eacute]  <anchor 334 556> mark @mark_top;
+		pos base [dotlessi]  <anchor 154 556> mark @mark_top;
+		pos base [ntilde]  <anchor 334 826> mark @mark_top;
+		pos base [oacute]  <anchor 354 566> mark @mark_top;
+		pos base [odieresis]  <anchor 354 566> mark @mark_top;
+		pos base [uacute]  <anchor 325 556> mark @mark_top;
+		pos base [udieresis]  <anchor 325 556> mark @mark_top;
+	} marklatn;
+	lookupflag 0;
+	script latn;
+	lookup marklatn;
+	lookupflag 0;
+} mark;
+feature mkmk {
+	lookup mkmk_DFLT_top {
+		pos mark [tildecomb] <anchor 316 826> mark @mark_top;
+	} mkmk_DFLT_top;
+	lookupflag 0;
+} mkmk;
+table GDEF {
+ GlyphClassDef [A E I N O Q U a e h n o u Aacute Eacute Iacute Ntilde Oacute Odieresis Uacute Udieresis aacute eacute dotlessi ntilde oacute odieresis uacute udieresis],# Base 
+ , # Liga 
+ [uni0308 acutecomb tildecomb], # Mark 
+ ;
+ } GDEF;

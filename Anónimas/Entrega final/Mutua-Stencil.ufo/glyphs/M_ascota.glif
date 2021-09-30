@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mascota" format="2">
+	<advance width="1124"/>
+	<outline>
+		<contour>
+			<point x="167" y="0" type="line"/>
+			<point x="311" y="0" type="line"/>
+			<point x="311" y="194" type="line"/>
+			<point x="284" y="99" type="line"/>
+			<point x="400" y="281" type="line"/>
+			<point x="203" y="252" type="line"/>
+			<point x="167" y="152" type="line"/>
+		</contour>
+		<contour>
+			<point x="408" y="0" type="line"/>
+			<point x="539" y="0" type="line"/>
+			<point x="423" y="231" type="line"/>
+			<point x="342" y="143" type="line"/>
+		</contour>
+		<contour>
+			<point x="630" y="0" type="line"/>
+			<point x="768" y="0" type="line"/>
+			<point x="768" y="416" type="line"/>
+			<point x="683" y="541" type="line"/>
+			<point x="203" y="541" type="line"/>
+			<point x="203" y="252" type="line"/>
+			<point x="682" y="252" type="line"/>
+			<point x="630" y="304" type="line"/>
+		</contour>
+		<contour>
+			<point x="726" y="570" type="line"/>
+			<point x="817" y="444" type="line"/>
+			<point x="905" y="504" type="line"/>
+			<point x="825" y="510" type="line"/>
+			<point x="986" y="363" type="line"/>
+			<point x="1071" y="455" type="line"/>
+			<point x="919" y="674" type="line"/>
+			<point x="909" y="600" type="line"/>
+			<point x="1011" y="682" type="line"/>
+			<point x="950" y="756" type="line"/>
+		</contour>
+		<contour>
+			<point x="286" y="520" type="move"/>
+		</contour>
+		<contour>
+			<point x="65" y="590" type="line"/>
+			<point x="251" y="405" type="line"/>
+			<point x="320" y="475" type="line"/>
+			<point x="134" y="661" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-26 03:09:36 +0000</string>
+		</dict>
+	</lib>
+</glyph>

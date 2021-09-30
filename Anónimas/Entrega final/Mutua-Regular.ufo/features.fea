@@ -1,0 +1,64 @@
+@Uppercase = [ A B C D E F G H I J K L M N Ntilde O Odieresis P Q R S T U V W X Y Z Aacute Eacute Iacute Oacute Uacute Udieresis
+ ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+# Prefix: Prefix
+table GDEF {
+ GlyphClassDef [A E I N O Q U a e n o u Aacute Eacute Iacute Ntilde Oacute Odieresis Uacute Udieresis aacute eacute dotlessi iacute ntilde oacute odieresis uacute udieresis],# Base 
+ , # Liga 
+ [uni0308 acutecomb tildecomb], # Mark 
+ ;
+ } GDEF;
+
+feature aalt {
+feature salt;
+feature ss01;
+} aalt;
+
+feature ccmp {
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb tildecomb];
+	sub [i]' @CombiningTopAccents by [dotlessi];
+} ccmp_Other_1;
+} ccmp;
+
+feature salt {
+sub questiondown by questiondown.ss01;
+} salt;
+
+feature ss01 {
+sub questiondown by questiondown.ss01;
+} ss01;
+
+feature kern {
+	lookup kern_latn {
+	lookupflag IgnoreMarks;
+		pos A B -9;
+		pos B C -9;
+		pos D E -43;
+		pos K L 17;
+		pos Q R 24;
+		pos W X -33;
+		pos Y e -94;
+		pos a t -20;
+		pos a v -46;
+		pos a w -40;
+		pos a y -26;
+		pos d o 7;
+		pos e k 11;
+		pos e y -33;
+		pos o e 6;
+		pos o j -19;
+		pos o v -22;
+		pos r e -7;
+		pos v a -27;
+	} kern_latn;
+	lookupflag 0;
+	script latn;
+	lookup kern_latn;
+	lookupflag 0;
+} kern;
+

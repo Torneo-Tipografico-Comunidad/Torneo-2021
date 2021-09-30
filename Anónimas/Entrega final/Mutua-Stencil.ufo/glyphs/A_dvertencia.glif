@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Advertencia" format="2">
+	<advance width="832"/>
+	<outline>
+		<contour>
+			<point x="371" y="137" type="line"/>
+			<point x="463" y="137" type="line"/>
+			<point x="463" y="228" type="line"/>
+			<point x="371" y="228" type="line"/>
+		</contour>
+		<contour>
+			<point x="371" y="257" type="line"/>
+			<point x="463" y="257" type="line"/>
+			<point x="463" y="491" type="line"/>
+			<point x="371" y="491" type="line"/>
+		</contour>
+		<contour>
+			<point x="163" y="154" type="line"/>
+			<point x="416" y="634" type="line"/>
+			<point x="697" y="104" type="line"/>
+			<point x="9" y="104" type="line"/>
+			<point x="9" y="0" type="line"/>
+			<point x="823" y="0" type="line"/>
+			<point x="823" y="104" type="line"/>
+			<point x="469" y="761" type="line"/>
+			<point x="358" y="761" type="line"/>
+			<point x="37" y="154" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-26 03:20:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>
