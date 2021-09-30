@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.ss01" format="2">
+	<advance width="570"/>
+	<guideline x="30" y="514" angle="0"/>
+	<guideline x="30" y="514" angle="0"/>
+	<outline>
+		<contour>
+			<point x="40" y="369" type="line"/>
+			<point x="40" y="-262" type="line"/>
+			<point x="130" y="-262" type="line"/>
+			<point x="130" y="369" type="line"/>
+		</contour>
+		<contour>
+			<point x="452" y="339" type="line"/>
+			<point x="452" y="-292" type="line"/>
+			<point x="542" y="-292" type="line"/>
+			<point x="542" y="339" type="line"/>
+		</contour>
+		<contour>
+			<point x="32" y="-136" type="line"/>
+			<point x="32" y="-214" type="line"/>
+			<point x="556" y="-214" type="line"/>
+			<point x="556" y="-136" type="line"/>
+		</contour>
+		<contour>
+			<point x="29" y="78" type="line"/>
+			<point x="29" y="0" type="line"/>
+			<point x="553" y="0" type="line"/>
+			<point x="553" y="78" type="line"/>
+		</contour>
+	</outline>
+</glyph>
