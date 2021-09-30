@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triangulo" format="2">
+	<advance width="652"/>
+	<outline>
+		<contour>
+			<point x="60" y="111" type="line"/>
+			<point x="604" y="111" type="line"/>
+			<point x="329" y="580" type="line"/>
+		</contour>
+		<contour>
+			<point x="160" y="167" type="line"/>
+			<point x="328" y="461" type="line"/>
+			<point x="502" y="167" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+	<advance width="383"/>
+	<unicode hex="0165"/>
+	<outline>
+		<contour>
+			<point x="290" y="563" type="line"/>
+			<point x="337" y="563" type="line"/>
+			<point x="347" y="570" type="line"/>
+			<point x="354" y="650"/>
+			<point x="357" y="697"/>
+			<point x="368" y="771" type="curve"/>
+			<point x="363" y="781" type="line"/>
+			<point x="274" y="781" type="line"/>
+			<point x="269" y="771" type="line"/>
+			<point x="281" y="570" type="line"/>
+		</contour>
+		<component base="t" xOffset="-5"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-28 07:12:55 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=t</string>
+		</dict>
+	</lib>
+</glyph>

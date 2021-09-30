@@ -1,0 +1,101 @@
+@numeros = [ zero     one     two     three     four     five     six     seven     eight     nine ];
+
+@numerosOldStyle = [ zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf ];
+
+@numerosTabulares = [ zero.tf  one.tf  two.tf  three.tf  four.tf  five.tf  six.tf  seven.tf  eight.tf  nine.tf ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn NLD;
+
+# Prefix: Prefix
+#Languagesystems
+feature pnum { #NÃÂºmeros proporcionales
+	sub @numerosTabulares by @numeros ;
+} pnum;
+
+feature lnum {
+    sub @numerosOldStyle by @numeros ;
+} lnum;
+
+feature onum {
+    sub @numeros by @numerosOldStyle   ;
+} onum;
+
+feature tnum {
+ #tnum es el feature de numeros tabulares
+    sub @numeros  by @numerosTabulares ;
+} tnum;
+
+feature case {
+ #Formas en mayusculas
+	sub hyphen          by  hyphen.case; 
+	sub endash          by  endash.case; 
+	sub emdash          by  emdash.case; 
+	sub periodcentered  by  periodcentered.case; 
+	sub bullet          by  bullet.case; 
+	sub parenleft       by  parenleft.case; 
+	sub parenright      by  parenright.case; 
+	sub bracketleft     by  bracketleft.case; 
+	sub bracketright    by  bracketright.case; 
+	sub braceleft       by  braceleft.case; 
+	sub braceright      by  braceright.case; 
+	sub slash           by  slash.case; 
+	sub backslash       by  backslash.case; 
+	sub guilsinglleft   by  guilsinglleft.case; 
+	sub guilsinglright  by  guilsinglright.case; 
+	sub guillemetleft   by  guillemetleft.case; 
+	sub guillemetright  by  guillemetright.case; 
+	sub at              by  at.case; 
+} case;
+
+feature salt {
+    sub J        by  J.alt ;
+    sub Q        by  Q.alt ;
+    sub Y        by  Y.alt ;
+    sub a        by  a.alt ;
+    sub caron    by  caron.alt ;
+    sub g        by  g.alt ;
+    sub seven    by  seven.alt ;
+    sub y        by  y.alt ;
+    sub dollar   by  dollar.alt  ;
+} salt;
+
+feature liga {
+    sub parenleft parenleft e n o j a d o parenright parenright                          by enojado             ;
+    sub parenleft parenleft f e l i z parenright parenright                              by feliz               ;
+    sub parenleft parenleft t r i s t e parenright parenright                            by triste              ;
+    sub parenleft parenleft s o l parenright parenright                                  by sol                 ;
+    sub parenleft parenleft n o parenright parenright                                    by no                  ;
+    sub parenleft parenleft p i z a r r o n parenright parenright                        by pizarron            ;
+    sub parenleft parenleft p e r s o n a space a p u n t a n d o parenright parenright  by persona.apuntando   ;
+    sub parenleft parenleft l a p i z parenright parenright                              by lapiz               ;
+    sub parenleft parenleft l a v a r parenright parenright                              by lavar               ;
+    sub parenleft parenleft b a ntilde o parenright parenright                           by banio.001           ;
+    sub parenleft parenleft m i n g i t o r i o parenright parenright                    by banio.002           ;
+    sub parenleft parenleft l a v a r parenright parenright                              by lavar               ;
+    sub parenleft parenleft n i ntilde o parenright parenright                           by persona.cuadro      ;
+    sub parenleft parenleft n i ntilde a parenright parenright                           by persona.triangulo   ;
+    sub parenleft parenleft t r i a n g u l o  parenright parenright                     by triangulo           ;
+    sub parenleft parenleft t r i a n g u l o space l i n e a parenright parenright      by triangulo.001       ;
+    sub parenleft parenleft h e x a g o n o parenright parenright                        by hexagono            ;
+    sub parenleft parenleft h e x a g o n o space l i n e a parenright parenright        by hexagono.001        ;
+    sub parenleft parenleft c u a d r a d o parenright  parenright                       by cuadrado            ;
+    sub parenleft parenleft c u a d r a d o space l i n e a parenright  parenright       by cuadrado.001        ;
+    sub parenleft parenleft c i r c u l o parenright parenright                          by circulo             ;
+    sub parenleft parenleft c i r c u l o space l i n e a parenright parenright          by circulo.001         ;
+    sub parenleft parenleft p e n t a g o n o parenright parenright                      by pentagono           ;
+    sub parenleft parenleft p e n t a g o n o space l i n e a parenright parenright      by pentagono.001       ;
+} liga;
+
+feature aalt {
+feature lnum;
+feature onum;
+feature tnum;
+feature case;
+feature salt;
+feature locl;
+feature pnum;
+} aalt;
+

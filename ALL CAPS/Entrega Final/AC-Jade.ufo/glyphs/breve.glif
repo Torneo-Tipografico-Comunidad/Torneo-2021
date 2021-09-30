@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="2">
+	<advance width="600"/>
+	<unicode hex="02D8"/>
+	<anchor x="293" y="517" name="_top"/>
+	<outline>
+		<contour>
+			<point x="295" y="579" type="curve" smooth="yes"/>
+			<point x="176" y="579"/>
+			<point x="139" y="683"/>
+			<point x="139" y="757" type="curve"/>
+			<point x="188" y="764" type="line"/>
+			<point x="206" y="703"/>
+			<point x="236" y="648"/>
+			<point x="295" y="648" type="curve" smooth="yes"/>
+			<point x="354" y="648"/>
+			<point x="384" y="703"/>
+			<point x="402" y="764" type="curve"/>
+			<point x="451" y="757" type="line"/>
+			<point x="451" y="683"/>
+			<point x="414" y="579"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-26 04:20:23 +0000</string>
+		</dict>
+	</lib>
+</glyph>

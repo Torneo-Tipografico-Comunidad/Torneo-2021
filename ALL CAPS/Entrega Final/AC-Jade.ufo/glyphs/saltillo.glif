@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="saltillo" format="2">
+	<advance width="199"/>
+	<unicode hex="A78C"/>
+	<outline>
+		<contour>
+			<point x="66" y="359" type="curve"/>
+			<point x="76" y="352" type="line"/>
+			<point x="123" y="352" type="line"/>
+			<point x="132" y="359" type="line"/>
+			<point x="131" y="499"/>
+			<point x="139" y="636"/>
+			<point x="154" y="770" type="curve"/>
+			<point x="149" y="780" type="line"/>
+			<point x="50" y="780" type="line"/>
+			<point x="45" y="770" type="line"/>
+			<point x="44" y="636"/>
+			<point x="51" y="499"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-26 06:46:01 +0000</string>
+		</dict>
+	</lib>
+</glyph>

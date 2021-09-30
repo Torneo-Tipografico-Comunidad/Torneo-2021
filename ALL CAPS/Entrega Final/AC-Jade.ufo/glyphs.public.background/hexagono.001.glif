@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hexagono.001" format="2">
+	<advance width="662"/>
+	<outline>
+		<contour>
+			<point x="245" y="8" type="move"/>
+		</contour>
+	</outline>
+</glyph>

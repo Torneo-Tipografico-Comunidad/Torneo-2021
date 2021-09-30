@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.osf" format="2">
+	<advance width="497"/>
+	<outline>
+		<contour>
+			<point x="79" y="-225" type="line"/>
+			<point x="330" y="-110"/>
+			<point x="457" y="-37"/>
+			<point x="457" y="106" type="curve"/>
+			<point x="458" y="208"/>
+			<point x="329" y="259"/>
+			<point x="206" y="195" type="curve"/>
+			<point x="209" y="191" type="line"/>
+			<point x="324" y="238"/>
+			<point x="398" y="290"/>
+			<point x="398" y="379" type="curve" smooth="yes"/>
+			<point x="398" y="476"/>
+			<point x="330" y="520"/>
+			<point x="243" y="520" type="curve" smooth="yes"/>
+			<point x="169" y="520"/>
+			<point x="103" y="495"/>
+			<point x="34" y="460" type="curve"/>
+			<point x="30" y="452" type="line"/>
+			<point x="47" y="406" type="line"/>
+			<point x="58" y="401" type="line"/>
+			<point x="113" y="422"/>
+			<point x="164" y="435"/>
+			<point x="212" y="435" type="curve" smooth="yes"/>
+			<point x="272" y="435"/>
+			<point x="308" y="415"/>
+			<point x="308" y="362" type="curve" smooth="yes"/>
+			<point x="308" y="279"/>
+			<point x="260" y="253"/>
+			<point x="143" y="200" type="curve"/>
+			<point x="140" y="198" type="line"/>
+			<point x="157" y="149" type="line"/>
+			<point x="160" y="148" type="line"/>
+			<point x="216" y="161" type="line" smooth="yes"/>
+			<point x="320" y="185"/>
+			<point x="367" y="154"/>
+			<point x="367" y="95" type="curve"/>
+			<point x="367" y="-4"/>
+			<point x="206" y="-85"/>
+			<point x="56" y="-175" type="curve"/>
+			<point x="51" y="-179" type="line"/>
+			<point x="74" y="-222" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-26 07:18:10 +0000</string>
+			<key>public.markColor</key>
+			<string>0.15,0.86,0.81,1</string>
+		</dict>
+	</lib>
+</glyph>

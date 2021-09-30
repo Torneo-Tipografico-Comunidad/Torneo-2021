@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowleft.alt2" format="2">
+	<advance width="750"/>
+	<outline>
+		<component base="arrowright.alt2" xScale="-1" xOffset="750"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.39,1,0.82,1</string>
+		</dict>
+	</lib>
+</glyph>

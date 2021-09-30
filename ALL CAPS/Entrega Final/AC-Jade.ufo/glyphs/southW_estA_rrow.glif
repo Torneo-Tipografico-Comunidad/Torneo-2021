@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="southWestArrow" format="2">
+	<advance width="513"/>
+	<unicode hex="2199"/>
+	<outline>
+		<component base="northEastArrow" xScale="-1" yScale="-1" xOffset="513" yOffset="713"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 05:19:43 +0000</string>
+		</dict>
+	</lib>
+</glyph>

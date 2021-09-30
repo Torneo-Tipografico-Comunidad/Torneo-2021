@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb.case" format="2">
+	<advance width="348"/>
+	<anchor x="174" y="700" name="_top"/>
+	<outline>
+		<contour>
+			<point x="187" y="901" type="curve"/>
+			<point x="161" y="901" type="line"/>
+			<point x="187" y="873"/>
+			<point x="220" y="842"/>
+			<point x="284" y="762" type="curve"/>
+			<point x="295" y="762" type="line"/>
+			<point x="347" y="800" type="line"/>
+			<point x="348" y="809" type="line"/>
+			<point x="285" y="873"/>
+			<point x="240" y="917"/>
+			<point x="216" y="955" type="curve"/>
+			<point x="132" y="955" type="line"/>
+			<point x="108" y="917"/>
+			<point x="63" y="873"/>
+			<point x="0" y="809" type="curve"/>
+			<point x="1" y="800" type="line"/>
+			<point x="53" y="762" type="line"/>
+			<point x="64" y="762" type="line"/>
+			<point x="127" y="842"/>
+			<point x="160" y="873"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-26 05:35:34 +0000</string>
+			<key>public.markColor</key>
+			<string>0.15,0.86,0.81,1</string>
+		</dict>
+	</lib>
+</glyph>
