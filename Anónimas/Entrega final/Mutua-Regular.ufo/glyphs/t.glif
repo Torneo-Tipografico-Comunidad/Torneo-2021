@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="2">
+	<advance width="463"/>
+	<unicode hex="0074"/>
+	<outline>
+		<contour>
+			<point x="40" y="556" type="line"/>
+			<point x="40" y="436" type="line"/>
+			<point x="417" y="436" type="line"/>
+			<point x="417" y="556" type="line"/>
+		</contour>
+		<contour>
+			<point x="132" y="674" type="line"/>
+			<point x="132" y="136" type="line" smooth="yes"/>
+			<point x="132" y="42"/>
+			<point x="178" y="-4"/>
+			<point x="271" y="-4" type="curve" smooth="yes"/>
+			<point x="406" y="-4" type="line"/>
+			<point x="406" y="115" type="line"/>
+			<point x="317" y="115" type="line" smooth="yes"/>
+			<point x="277" y="115"/>
+			<point x="256" y="136"/>
+			<point x="256" y="180" type="curve" smooth="yes"/>
+			<point x="256" y="674" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-23 23:21:16 +0000</string>
+		</dict>
+	</lib>
+</glyph>

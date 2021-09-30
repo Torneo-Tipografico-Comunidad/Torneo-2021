@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p" format="2">
+	<advance width="675"/>
+	<outline>
+		<contour>
+			<point x="223" y="436" type="move"/>
+			<point x="223" y="505"/>
+			<point x="279" y="560"/>
+			<point x="349" y="560" type="curve"/>
+		</contour>
+	</outline>
+</glyph>
