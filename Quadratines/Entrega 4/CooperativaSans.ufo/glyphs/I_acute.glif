@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute" format="2">
+	<advance width="255"/>
+	<unicode hex="00CD"/>
+	<outline>
+		<component base="I"/>
+		<component base="acutecomb" xOffset="75" yOffset="200"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 09:27:08 +0000</string>
+		</dict>
+	</lib>
+</glyph>
