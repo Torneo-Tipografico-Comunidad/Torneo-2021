@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="estarcido" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="181.95668" y="196.37857" type="line"/>
+			<point x="213.44876" y="199.76152" type="line"/>
+			<point x="218.73283" y="678.67168" type="line"/>
+			<point x="161.59284" y="678.81557" type="line"/>
+		</contour>
+		<contour>
+			<point x="335.93414" y="411.98082" type="line"/>
+			<point x="355.92314" y="387.41182" type="line"/>
+			<point x="574.1579" y="521.65635" type="line"/>
+			<point x="543.1579" y="569.65635" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 00:50:57 +0000</string>
+		</dict>
+	</lib>
+</glyph>

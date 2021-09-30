@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pic.biblio" format="2">
+	<advance width="1004"/>
+	<guideline x="-10" y="729" angle="0"/>
+	<guideline x="20" y="0" angle="0"/>
+	<guideline x="536" y="0" angle="0"/>
+	<guideline x="285" y="0" angle="0"/>
+	<anchor x="107" y="600" name="top"/>
+	<anchor x="265" y="0" name="bottom"/>
+	<anchor x="487" y="10" name="ogonek"/>
+	<anchor x="1290" y="-569" name="topleft"/>
+	<outline>
+		<contour>
+			<point x="947.72643" y="666.46788" type="curve"/>
+			<point x="849.13889" y="604.9431" type="line"/>
+			<point x="849.69291" y="595.70198"/>
+			<point x="850" y="586.62067"/>
+			<point x="850" y="578" type="curve" smooth="yes"/>
+			<point x="850" y="290" type="line" smooth="yes"/>
+			<point x="850" y="236"/>
+			<point x="845" y="187"/>
+			<point x="840" y="158" type="curve"/>
+			<point x="764" y="179"/>
+			<point x="637" y="185"/>
+			<point x="553" y="160" type="curve"/>
+			<point x="553" y="665" type="line"/>
+			<point x="691.25612" y="691.51487"/>
+			<point x="784.67561" y="677.67677"/>
+			<point x="836.65513" y="652.35747" type="curve"/>
+			<point x="923.81588" y="720.13885" type="line"/>
+			<point x="907.30655" y="730.90516"/>
+			<point x="893.33759" y="739.46496"/>
+			<point x="887" y="742" type="curve" smooth="yes"/>
+			<point x="773" y="763"/>
+			<point x="663" y="763"/>
+			<point x="550" y="742" type="curve"/>
+			<point x="508" y="703" type="line"/>
+			<point x="450" y="742" type="line"/>
+			<point x="349" y="763"/>
+			<point x="238" y="763"/>
+			<point x="136" y="742" type="curve"/>
+			<point x="50" y="694" type="line"/>
+			<point x="60" y="674"/>
+			<point x="64" y="521"/>
+			<point x="64" y="563" type="curve" smooth="yes"/>
+			<point x="64" y="669.44515"/>
+			<point x="68.64336" y="238.03454"/>
+			<point x="65.67562" y="112.96402" type="curve"/>
+			<point x="168.60681" y="192.77165" type="line"/>
+			<point x="166.55901" y="226.65429"/>
+			<point x="164" y="263.60665"/>
+			<point x="164" y="298" type="curve" smooth="yes"/>
+			<point x="164" y="587" type="line" smooth="yes"/>
+			<point x="164" y="608"/>
+			<point x="168" y="632"/>
+			<point x="171" y="658" type="curve"/>
+			<point x="226" y="688"/>
+			<point x="325" y="693"/>
+			<point x="457" y="665" type="curve"/>
+			<point x="457" y="160" type="line"/>
+			<point x="396.34011" y="175.79685"/>
+			<point x="319.70964" y="182.80987"/>
+			<point x="257.63505" y="180.78679" type="curve"/>
+			<point x="116.2112" y="88.82935" type="line"/>
+			<point x="232.46162" y="103.60831"/>
+			<point x="350.48684" y="100.99853"/>
+			<point x="467" y="81" type="curve"/>
+			<point x="508" y="111" type="line"/>
+			<point x="541" y="81" type="line"/>
+			<point x="678" y="104"/>
+			<point x="806" y="104"/>
+			<point x="941" y="81" type="curve"/>
+			<point x="936" y="117"/>
+			<point x="941" y="466"/>
+			<point x="941" y="530" type="curve" smooth="yes"/>
+			<point x="941" y="587.68287"/>
+			<point x="943.47421" y="633.98438"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 00:57:30 +0000</string>
+		</dict>
+	</lib>
+</glyph>

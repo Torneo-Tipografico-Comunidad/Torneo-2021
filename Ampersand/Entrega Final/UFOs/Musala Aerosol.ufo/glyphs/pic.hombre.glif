@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pic.hombre" format="2">
+	<advance width="676"/>
+	<guideline x="586" y="0" angle="0"/>
+	<guideline x="69" y="0" angle="0"/>
+	<guideline x="17" y="949" angle="0"/>
+	<guideline x="318" y="0" angle="0"/>
+	<guideline x="558" y="0" angle="0"/>
+	<guideline x="17" y="1000" angle="0"/>
+	<guideline x="17" y="467" angle="0"/>
+	<outline>
+		<contour>
+			<point x="356" y="620" type="curve" smooth="yes"/>
+			<point x="418" y="620"/>
+			<point x="468" y="664"/>
+			<point x="468" y="727" type="curve" smooth="yes"/>
+			<point x="468" y="788"/>
+			<point x="418" y="830"/>
+			<point x="356" y="830" type="curve" smooth="yes"/>
+			<point x="293" y="830"/>
+			<point x="242" y="788"/>
+			<point x="242" y="727" type="curve" smooth="yes"/>
+			<point x="242" y="664"/>
+			<point x="293" y="620"/>
+		</contour>
+		<contour>
+			<point x="626" y="494.77303" type="line"/>
+			<point x="497.60156" y="419.84645" type="line"/>
+			<point x="485.83972" y="381.63232"/>
+			<point x="469.46483" y="341.92965"/>
+			<point x="449" y="301" type="curve" smooth="yes"/>
+			<point x="426.13925" y="253.80361"/>
+			<point x="377.71881" y="165.82048"/>
+			<point x="346.24881" y="114.85217" type="curve"/>
+			<point x="173.56202" y="463.62843" type="line"/>
+			<point x="276.86276" y="469.69934"/>
+			<point x="404.61951" y="470.11617"/>
+			<point x="481.65743" y="464.55901" type="curve"/>
+			<point x="583" y="546" type="line"/>
+			<point x="419" y="557"/>
+			<point x="260" y="557"/>
+			<point x="96" y="546" type="curve"/>
+			<point x="89" y="542"/>
+			<point x="59" y="521"/>
+			<point x="50" y="512" type="curve"/>
+			<point x="50" y="466" type="line"/>
+			<point x="59" y="460"/>
+			<point x="82.56319" y="415.77784"/>
+			<point x="99" y="384" type="curve" smooth="yes"/>
+			<point x="219" y="152" type="line" smooth="yes"/>
+			<point x="249.4088" y="93.20965"/>
+			<point x="265" y="60"/>
+			<point x="278" y="46" type="curve" smooth="yes"/>
+			<point x="303" y="23"/>
+			<point x="376" y="13"/>
+			<point x="396" y="23" type="curve"/>
+			<point x="626" y="466" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 00:52:27 +0000</string>
+		</dict>
+	</lib>
+</glyph>

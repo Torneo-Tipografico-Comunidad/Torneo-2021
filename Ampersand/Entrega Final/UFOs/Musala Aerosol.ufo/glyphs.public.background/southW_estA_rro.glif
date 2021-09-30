@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="southWestArro" format="2">
+	<advance width="845"/>
+	<outline>
+		<contour>
+			<point x="686" y="50" type="line"/>
+			<point x="606" y="37"/>
+			<point x="336" y="0"/>
+			<point x="330" y="3" type="curve"/>
+			<point x="321" y="7"/>
+			<point x="167" y="222"/>
+			<point x="120" y="290" type="curve"/>
+			<point x="50" y="373" type="line"/>
+			<point x="176" y="475" type="line"/>
+			<point x="244" y="373"/>
+			<point x="300" y="297"/>
+			<point x="357" y="218" type="curve"/>
+			<point x="330" y="202" type="line"/>
+			<point x="333" y="208"/>
+			<point x="335" y="213"/>
+			<point x="337" y="216" type="curve"/>
+			<point x="492" y="571" type="line"/>
+			<point x="512" y="620"/>
+			<point x="547" y="711"/>
+			<point x="556" y="773" type="curve"/>
+			<point x="566" y="776"/>
+			<point x="673" y="776"/>
+			<point x="685" y="770" type="curve" smooth="yes"/>
+			<point x="698" y="765"/>
+			<point x="733" y="730"/>
+			<point x="736" y="723" type="curve"/>
+			<point x="490" y="144" type="line"/>
+			<point x="479" y="171" type="line"/>
+			<point x="573" y="186"/>
+			<point x="664" y="197"/>
+			<point x="781" y="218" type="curve"/>
+			<point x="795" y="57" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+	<advance width="988.43"/>
+	<unicode hex="0057"/>
+	<outline>
+		<contour>
+			<point x="474.975" y="89.965" type="curve"/>
+			<point x="551.82516" y="140.64528"/>
+			<point x="548.55855" y="199.22961"/>
+			<point x="565.071" y="358.416" type="curve"/>
+			<point x="568.222" y="626.265" type="line" smooth="yes"/>
+			<point x="568.96336" y="689.28429"/>
+			<point x="575.378" y="733.221"/>
+			<point x="576.109" y="789.373" type="curve"/>
+			<point x="570.687" y="791.694"/>
+			<point x="533.934" y="800.453"/>
+			<point x="523.018" y="800.373" type="curve" smooth="yes"/>
+			<point x="512.367" y="800.295"/>
+			<point x="443.26" y="788.764"/>
+			<point x="418.49" y="780.955" type="curve"/>
+			<point x="429.479" y="729.33"/>
+			<point x="431.693" y="576.931"/>
+			<point x="431.693" y="472.915" type="curve" smooth="yes"/>
+			<point x="431.693" y="359.503"/>
+			<point x="425.482" y="181.004"/>
+			<point x="410.696" y="122.49" type="curve"/>
+			<point x="389.89" y="112.257"/>
+			<point x="358.637" y="100.759"/>
+			<point x="334.49" y="100.759" type="curve" smooth="yes"/>
+			<point x="324.52426" y="100.759"/>
+			<point x="304.68023" y="114.07789"/>
+			<point x="279.93399" y="133.14267" type="curve"/>
+			<point x="273.20274" y="11.94811" type="line"/>
+			<point x="300.58687" y="-2.64906"/>
+			<point x="320.05063" y="-10.806"/>
+			<point x="328.887" y="-10.806" type="curve"/>
+			<point x="379.91633" y="18.11767"/>
+			<point x="423.94567" y="51.04133"/>
+		</contour>
+		<contour>
+			<point x="55.001" y="780.955" type="curve"/>
+			<point x="61.24" y="758.613"/>
+			<point x="70.38376" y="670.95223"/>
+			<point x="72.243" y="613.789" type="curve" smooth="yes"/>
+			<point x="80.175" y="369.916" type="line" smooth="yes"/>
+			<point x="82.98566" y="283.50088"/>
+			<point x="92.533" y="164.771"/>
+			<point x="106.306" y="138.689" type="curve"/>
+			<point x="128.71407" y="106.90007"/>
+			<point x="176.19666" y="70.34586"/>
+			<point x="221.94587" y="41.34097" type="curve"/>
+			<point x="205.546" y="789.373" type="line"/>
+			<point x="200.104" y="791.694"/>
+			<point x="165.275" y="800.453"/>
+			<point x="154.359" y="800.373" type="curve" smooth="yes"/>
+			<point x="143.709" y="800.295"/>
+			<point x="66.737" y="784.764"/>
+		</contour>
+		<contour>
+			<point x="607.58816" y="146.47217" type="curve"/>
+			<point x="532.76267" y="66.47819" type="line"/>
+			<point x="590.52072" y="22.0679"/>
+			<point x="652.6295" y="-10.806"/>
+			<point x="672.21" y="-10.806" type="curve" smooth="yes"/>
+			<point x="694.093" y="-10.806"/>
+			<point x="789.683" y="51.958"/>
+			<point x="829.298" y="90.965" type="curve"/>
+			<point x="868.452" y="121.835"/>
+			<point x="893.918" y="154.503"/>
+			<point x="899.878" y="171.803" type="curve"/>
+			<point x="905.942" y="197.777"/>
+			<point x="916.45065" y="303.47474"/>
+			<point x="917.514" y="356.128" type="curve" smooth="yes"/>
+			<point x="922.855" y="620.596" type="line" smooth="yes"/>
+			<point x="923.93161" y="673.90613"/>
+			<point x="930.605" y="737.476"/>
+			<point x="933.432" y="789.373" type="curve"/>
+			<point x="928.01" y="791.694"/>
+			<point x="887.257" y="800.453"/>
+			<point x="876.341" y="800.373" type="curve" smooth="yes"/>
+			<point x="865.69" y="800.295"/>
+			<point x="785.583" y="784.764"/>
+			<point x="773.813" y="780.955" type="curve"/>
+			<point x="792.802" y="709.33"/>
+			<point x="784.016" y="578.844"/>
+			<point x="784.016" y="404.828" type="curve" smooth="yes"/>
+			<point x="784.016" y="271.416"/>
+			<point x="775.805" y="183.004"/>
+			<point x="761.019" y="124.49" type="curve"/>
+			<point x="740.213" y="114.257"/>
+			<point x="696.96" y="100.759"/>
+			<point x="676.813" y="100.759" type="curve" smooth="yes"/>
+			<point x="668.22397" y="100.759"/>
+			<point x="646.15845" y="107.46091"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-22 03:43:30 +0000</string>
+		</dict>
+	</lib>
+</glyph>

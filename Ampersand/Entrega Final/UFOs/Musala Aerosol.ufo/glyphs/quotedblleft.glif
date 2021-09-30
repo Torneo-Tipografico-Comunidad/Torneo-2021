@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="2">
+	<advance width="427.76"/>
+	<unicode hex="201C"/>
+	<outline>
+		<contour>
+			<point x="397.76279" y="757.04828" type="line"/>
+			<point x="368.14078" y="696.54126"/>
+			<point x="356.14078" y="623.79028"/>
+			<point x="373.52777" y="531.54828" type="curve"/>
+			<point x="359.87778" y="513.46625"/>
+			<point x="346.58279" y="495.38428"/>
+			<point x="336.13477" y="487.67728" type="curve"/>
+			<point x="323.63077" y="482.33026"/>
+			<point x="262.32379" y="476.06628"/>
+			<point x="231.05579" y="487.67728" type="curve"/>
+			<point x="225.97878" y="511.72827"/>
+			<point x="208.20378" y="645.28229"/>
+			<point x="345.09879" y="799.56329" type="curve"/>
+		</contour>
+		<contour>
+			<point x="200.30177" y="757.04828" type="line"/>
+			<point x="170.67978" y="696.54126"/>
+			<point x="158.67978" y="623.79028"/>
+			<point x="176.06677" y="531.54828" type="curve"/>
+			<point x="162.41678" y="513.46625"/>
+			<point x="149.12178" y="495.38428"/>
+			<point x="138.67378" y="487.67728" type="curve"/>
+			<point x="126.16978" y="482.33026"/>
+			<point x="64.86278" y="476.06628"/>
+			<point x="33.59478" y="487.67728" type="curve"/>
+			<point x="28.51778" y="511.72827"/>
+			<point x="10.74278" y="645.28229"/>
+			<point x="147.63779" y="799.56329" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-26 04:05:18 +0000</string>
+		</dict>
+	</lib>
+</glyph>

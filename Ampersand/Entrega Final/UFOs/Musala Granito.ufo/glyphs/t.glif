@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="2">
+	<advance width="409.36"/>
+	<unicode hex="0074"/>
+	<outline>
+		<contour>
+			<point x="35.003" y="512.179" type="line"/>
+			<point x="125.003" y="512.179"/>
+			<point x="269.98" y="512.179"/>
+			<point x="358.98" y="512.179" type="curve"/>
+			<point x="358.98" y="600.179" type="line"/>
+			<point x="337.053" y="598.954"/>
+			<point x="268.934" y="596.115"/>
+			<point x="203.018" y="596.115" type="curve" smooth="yes"/>
+			<point x="111.187" y="596.115"/>
+			<point x="70.517" y="589.343"/>
+			<point x="35.003" y="576.851" type="curve"/>
+		</contour>
+		<contour>
+			<point x="73.517" y="719.488" type="curve"/>
+			<point x="83.838" y="685.964"/>
+			<point x="103.941" y="580.843"/>
+			<point x="97.113" y="541.266" type="curve"/>
+			<point x="97.113" y="153.562" type="line"/>
+			<point x="94.696" y="128.224"/>
+			<point x="91.713" y="106.66"/>
+			<point x="89.084" y="85.962" type="curve"/>
+			<point x="89.084" y="56.733"/>
+			<point x="147.755" y="7.836"/>
+			<point x="161.003" y="-1.783" type="curve"/>
+			<point x="174.685" y="-7.961"/>
+			<point x="240.677" y="-11.86"/>
+			<point x="263.85" y="-10.606" type="curve" smooth="yes"/>
+			<point x="330.793" y="-6.983"/>
+			<point x="382.186" y="20.592"/>
+			<point x="399.36" y="33.391" type="curve"/>
+			<point x="367.944" y="93.142" type="line"/>
+			<point x="339.247" y="80.253"/>
+			<point x="306.89" y="75.616"/>
+			<point x="288.901" y="75.616" type="curve"/>
+			<point x="233.539" y="78.701"/>
+			<point x="229.519" y="102.368"/>
+			<point x="229.519" y="165.816" type="curve"/>
+			<point x="229.677" y="745.984" type="line"/>
+			<point x="224.823" y="749.969"/>
+			<point x="185.406" y="761.064"/>
+			<point x="174.49" y="760.984" type="curve" smooth="yes"/>
+			<point x="163.84" y="760.906"/>
+			<point x="79.375" y="725.602"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-22 03:43:30 +0000</string>
+		</dict>
+	</lib>
+</glyph>

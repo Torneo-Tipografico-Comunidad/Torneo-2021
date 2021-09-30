@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="2">
+	<advance width="471.17"/>
+	<unicode hex="0066"/>
+	<outline>
+		<contour>
+			<point x="98.76" y="-0.182" type="line"/>
+			<point x="209.422" y="-0.182" type="line"/>
+			<point x="213.34" y="558.8125" type="line"/>
+			<point x="213.34" y="583.396"/>
+			<point x="197.096" y="635.10216"/>
+			<point x="197.096" y="675.75" type="curve" smooth="yes"/>
+			<point x="197.096" y="714.80078"/>
+			<point x="227.48815" y="760.012"/>
+			<point x="287.55937" y="760.012" type="curve" smooth="yes"/>
+			<point x="339.69542" y="760.012"/>
+			<point x="371.254" y="745.278"/>
+			<point x="397.362" y="722.337" type="curve"/>
+			<point x="441.168" y="767.835" type="line"/>
+			<point x="419.5139" y="796.84718"/>
+			<point x="354.42801" y="836.818"/>
+			<point x="295.38101" y="836.818" type="curve" smooth="yes"/>
+			<point x="174.99744" y="836.818"/>
+			<point x="99.64826" y="774.01796"/>
+			<point x="99.64826" y="664.48175" type="curve" smooth="yes"/>
+			<point x="99.64826" y="620.46196"/>
+			<point x="110.28" y="566.56537"/>
+			<point x="110.28" y="539.89062" type="curve"/>
+			<point x="110.28" y="116.779" type="line"/>
+		</contour>
+		<contour>
+			<point x="40.003" y="520.179" type="line"/>
+			<point x="373.98" y="520.179" type="line"/>
+			<point x="373.98" y="588.179" type="line"/>
+			<point x="198.018" y="588.115" type="line"/>
+			<point x="40.003" y="575.851" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 06:52:24 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>t</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>t</string>
+		</dict>
+	</lib>
+</glyph>

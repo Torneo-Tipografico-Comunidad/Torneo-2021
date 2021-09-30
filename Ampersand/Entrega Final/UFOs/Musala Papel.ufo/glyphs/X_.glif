@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+	<advance width="689.12"/>
+	<unicode hex="0058"/>
+	<guideline x="-341.39" y="551.05" angle="270"/>
+	<guideline x="-872.9" y="561.08" angle="270"/>
+	<guideline x="649.12" y="777.75" angle="270"/>
+	<guideline x="69.17" y="777.75" angle="270"/>
+	<outline>
+		<contour>
+			<point x="534.564" y="-0.369" type="line"/>
+			<point x="650.117" y="0.049" type="line"/>
+			<point x="581.68765" y="113.50691" type="line"/>
+			<point x="199.02342" y="757.385" type="line"/>
+			<point x="87.08427" y="757.385" type="line"/>
+		</contour>
+		<contour>
+			<point x="184.628" y="0.049" type="line"/>
+			<point x="366.424" y="355.174" type="line"/>
+			<point x="311.05952" y="405.53293" type="line"/>
+			<point x="136.19028" y="111.35595" type="line"/>
+			<point x="69.002" y="-0.369" type="line"/>
+		</contour>
+		<contour>
+			<point x="509.51069" y="757.385" type="line"/>
+			<point x="340.71469" y="410.65009" type="line"/>
+			<point x="394.8165" y="362.67269" type="line"/>
+			<point x="625.13669" y="757.803" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 06:52:24 +0000</string>
+		</dict>
+	</lib>
+</glyph>
