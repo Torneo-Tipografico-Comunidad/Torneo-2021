@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightArrow" format="2">
+	<advance width="650"/>
+	<unicode hex="2192"/>
+	<outline>
+		<component base="upArrow" xScale="0" xyScale="-1" yScale="0" yxScale="1" yOffset="650"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-25 00:31:51 +0000</string>
+		</dict>
+	</lib>
+</glyph>

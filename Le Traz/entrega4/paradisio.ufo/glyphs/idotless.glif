@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="2">
+	<advance width="236"/>
+	<unicode hex="0131"/>
+	<anchor x="118" y="500" name="top"/>
+	<outline>
+		<contour>
+			<point x="70" y="500" type="line"/>
+			<point x="70" y="0" type="line"/>
+			<point x="166" y="0" type="line"/>
+			<point x="166" y="500" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 03:29:50 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noSmokingSymbol" format="2">
+	<advance width="900"/>
+	<unicode hex="1F6AD"/>
+	<guideline x="25" y="0" angle="0"/>
+	<guideline y="-175"/>
+	<guideline x="450" y="0" angle="0"/>
+	<guideline y="250"/>
+	<guideline x="875" y="0" angle="0"/>
+	<guideline y="675"/>
+	<outline>
+		<contour>
+			<point x="459" y="326" type="line"/>
+			<point x="188" y="592" type="line"/>
+			<point x="153" y="554" type="line"/>
+			<point x="382" y="326" type="line"/>
+			<point x="390" y="356" type="line"/>
+			<point x="25" y="356" type="line"/>
+			<point x="25" y="147" type="line"/>
+			<point x="609" y="147" type="line"/>
+			<point x="538" y="181" type="line"/>
+			<point x="754" y="-32" type="line"/>
+			<point x="789" y="5" type="line"/>
+			<point x="613" y="179" type="line"/>
+			<point x="603" y="147" type="line"/>
+			<point x="800" y="147" type="line"/>
+			<point x="800" y="356" type="line"/>
+			<point x="386" y="356" type="line"/>
+		</contour>
+		<contour>
+			<point x="594" y="196" type="line"/>
+			<point x="485" y="307" type="line"/>
+			<point x="751" y="307" type="line"/>
+			<point x="751" y="196" type="line"/>
+		</contour>
+		<contour>
+			<point x="268" y="196" type="line"/>
+			<point x="268" y="307" type="line"/>
+			<point x="401" y="307" type="line"/>
+			<point x="510" y="196" type="line"/>
+		</contour>
+		<contour>
+			<point x="764" y="517" type="line"/>
+			<point x="764" y="393" type="line"/>
+			<point x="800" y="393" type="line"/>
+			<point x="800" y="517" type="line"/>
+		</contour>
+		<contour>
+			<point x="839" y="561" type="line"/>
+			<point x="839" y="293" type="line"/>
+			<point x="875" y="293" type="line"/>
+			<point x="875" y="561" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-30 01:17:24 +0000</string>
+		</dict>
+	</lib>
+</glyph>

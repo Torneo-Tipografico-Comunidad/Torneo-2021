@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="forkAndKnife" format="2">
+	<advance width="900"/>
+	<unicode hex="1F374"/>
+	<guideline x="28" y="0" angle="0"/>
+	<guideline x="3" y="-175" angle="0"/>
+	<guideline x="453" y="0" angle="0"/>
+	<guideline x="3" y="250" angle="0"/>
+	<guideline x="878" y="0" angle="0"/>
+	<guideline x="3" y="675" angle="0"/>
+	<outline>
+		<contour>
+			<point x="371" y="658" type="line"/>
+			<point x="371" y="439" type="line"/>
+			<point x="371" y="350"/>
+			<point x="329" y="313"/>
+			<point x="264" y="313" type="curve"/>
+			<point x="200" y="313"/>
+			<point x="158" y="351"/>
+			<point x="158" y="439" type="curve"/>
+			<point x="158" y="658" type="line"/>
+			<point x="103" y="658" type="line"/>
+			<point x="103" y="433" type="line"/>
+			<point x="103" y="367"/>
+			<point x="121" y="279"/>
+			<point x="237" y="262" type="curve"/>
+			<point x="237" y="-175" type="line"/>
+			<point x="292" y="-175" type="line"/>
+			<point x="292" y="262" type="line"/>
+			<point x="408" y="279"/>
+			<point x="426" y="367"/>
+			<point x="426" y="433" type="curve"/>
+			<point x="426" y="658" type="line"/>
+		</contour>
+		<contour>
+			<point x="740" y="459" type="curve"/>
+			<point x="740" y="340"/>
+			<point x="713" y="312"/>
+			<point x="638" y="312" type="curve"/>
+			<point x="564" y="312"/>
+			<point x="537" y="340"/>
+			<point x="537" y="459" type="curve"/>
+			<point x="537" y="583"/>
+			<point x="564" y="620"/>
+			<point x="638" y="620" type="curve"/>
+			<point x="713" y="620"/>
+			<point x="740" y="583"/>
+		</contour>
+		<contour>
+			<point x="638" y="675" type="curve"/>
+			<point x="525" y="675"/>
+			<point x="481" y="620"/>
+			<point x="481" y="459" type="curve"/>
+			<point x="481" y="321"/>
+			<point x="515" y="271"/>
+			<point x="612" y="258" type="curve"/>
+			<point x="612" y="-175" type="line"/>
+			<point x="668" y="-175" type="line"/>
+			<point x="668" y="259" type="line"/>
+			<point x="763" y="273"/>
+			<point x="796" y="322"/>
+			<point x="796" y="459" type="curve"/>
+			<point x="796" y="620"/>
+			<point x="751" y="675"/>
+		</contour>
+		<contour>
+			<point x="196" y="658" type="line"/>
+			<point x="196" y="366" type="line"/>
+			<point x="246" y="366" type="line"/>
+			<point x="246" y="658" type="line"/>
+		</contour>
+		<contour>
+			<point x="282" y="658" type="line"/>
+			<point x="282" y="366" type="line"/>
+			<point x="332" y="366" type="line"/>
+			<point x="332" y="658" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-30 02:35:32 +0000</string>
+		</dict>
+	</lib>
+</glyph>

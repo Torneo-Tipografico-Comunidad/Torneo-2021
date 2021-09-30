@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftRightArrow" format="2">
+	<advance width="900"/>
+	<unicode hex="2194"/>
+	<guideline x="25" y="0" angle="0"/>
+	<guideline y="-175"/>
+	<guideline x="450" y="0" angle="0"/>
+	<guideline y="250"/>
+	<guideline x="875" y="0" angle="0"/>
+	<guideline y="675"/>
+	<outline>
+		<contour>
+			<point x="793" y="293" type="line"/>
+			<point x="107" y="293" type="line"/>
+			<point x="107" y="207" type="line"/>
+			<point x="793" y="207" type="line"/>
+		</contour>
+		<contour>
+			<point x="498" y="499" type="line"/>
+			<point x="768" y="240" type="line"/>
+			<point x="768" y="260" type="line"/>
+			<point x="498" y="1" type="line"/>
+			<point x="562" y="-63" type="line"/>
+			<point x="875" y="250" type="line"/>
+			<point x="562" y="563" type="line"/>
+		</contour>
+		<contour>
+			<point x="402" y="1" type="line"/>
+			<point x="132" y="260" type="line"/>
+			<point x="132" y="240" type="line"/>
+			<point x="402" y="499" type="line"/>
+			<point x="338" y="563" type="line"/>
+			<point x="25" y="250" type="line"/>
+			<point x="338" y="-63" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-30 00:56:48 +0000</string>
+		</dict>
+	</lib>
+</glyph>

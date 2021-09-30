@@ -1,0 +1,35 @@
+# automatic
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Eacute Iacute Ntilde Oacute Odieresis Uacute Udieresis ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature case;
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb dieresiscomb dotaccentcomb tildecomb];
+	sub [i]' @CombiningTopAccents by [idotless];
+	@Markscomb = [acutecomb dieresiscomb tildecomb];
+	@MarkscombCase = [acutecomb.case dieresiscomb.case tildecomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+} ccmp;
+
+feature case {
+# automatic
+sub acutecomb by acutecomb.case;
+sub dieresiscomb by dieresiscomb.case;
+sub tildecomb by tildecomb.case;
+} case;
+
