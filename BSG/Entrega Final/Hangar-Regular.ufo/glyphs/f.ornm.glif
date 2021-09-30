@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f.ornm" format="2">
+	<advance width="541"/>
+	<note>
+		f.ornm
+	</note>
+	<outline>
+		<contour>
+			<point x="306" y="700" type="line"/>
+			<point x="217" y="700" type="line"/>
+			<point x="205" y="632" type="line"/>
+			<point x="118" y="632" type="line"/>
+			<point x="91" y="592" type="line"/>
+			<point x="432" y="592" type="line"/>
+			<point x="405" y="632" type="line"/>
+			<point x="318" y="632" type="line"/>
+		</contour>
+		<contour>
+			<point x="121" y="573" type="line"/>
+			<point x="93" y="583" type="line"/>
+			<point x="145" y="428" type="line"/>
+			<point x="220" y="428" type="line"/>
+			<point x="220" y="0" type="line"/>
+			<point x="304" y="0" type="line"/>
+			<point x="304" y="428" type="line"/>
+			<point x="375" y="428" type="line"/>
+			<point x="428" y="583" type="line"/>
+			<point x="400" y="573" type="line"/>
+			<point x="360" y="456" type="line"/>
+			<point x="311" y="456" type="line"/>
+			<point x="331" y="582" type="line"/>
+			<point x="303" y="572" type="line"/>
+			<point x="286" y="456" type="line"/>
+			<point x="240" y="456" type="line"/>
+			<point x="222" y="573" type="line"/>
+			<point x="195" y="583" type="line"/>
+			<point x="215" y="456" type="line"/>
+			<point x="161" y="456" type="line"/>
+		</contour>
+	</outline>
+</glyph>
