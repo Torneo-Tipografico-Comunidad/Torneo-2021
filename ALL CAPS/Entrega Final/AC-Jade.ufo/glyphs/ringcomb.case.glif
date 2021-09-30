@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb.case" format="2">
+	<advance width="248"/>
+	<anchor x="124" y="703" name="_top"/>
+	<outline>
+		<component base="ringcomb" yScale="0.8515" yOffset="265"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-26 05:36:02 +0000</string>
+		</dict>
+	</lib>
+</glyph>

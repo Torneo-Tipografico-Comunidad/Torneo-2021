@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb.case" format="2">
+	<advance width="192"/>
+	<anchor x="142" y="580" name="_top"/>
+	<outline>
+		<component base="dotaccentcomb" xOffset="30" yOffset="60"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-26 05:54:38 +0000</string>
+			<key>public.markColor</key>
+			<string>0.15,0.86,0.81,1</string>
+		</dict>
+	</lib>
+</glyph>

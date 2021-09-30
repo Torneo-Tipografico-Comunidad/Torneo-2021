@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triangulo" format="2">
+	<advance width="652"/>
+	<outline>
+		<contour>
+			<point x="55" y="115" type="line"/>
+			<point x="598" y="115" type="line"/>
+			<point x="602" y="123" type="line"/>
+			<point x="330" y="592" type="line"/>
+			<point x="316" y="592" type="line"/>
+			<point x="50" y="127" type="line"/>
+		</contour>
+		<contour>
+			<point x="166" y="180" type="line"/>
+			<point x="161" y="189" type="line"/>
+			<point x="319" y="465" type="line"/>
+			<point x="329" y="465" type="line"/>
+			<point x="492" y="188" type="line"/>
+			<point x="488" y="180" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-27 20:13:08 +0000</string>
+			<key>public.markColor</key>
+			<string>0.39,1,0.82,1</string>
+		</dict>
+	</lib>
+</glyph>

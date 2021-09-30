@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.case" format="2">
+	<advance width="320"/>
+	<anchor x="163" y="701" name="_top"/>
+	<outline>
+		<contour>
+			<point x="310" y="809" type="line"/>
+			<point x="249" y="811"/>
+			<point x="204" y="811"/>
+			<point x="160" y="811" type="curve" smooth="yes"/>
+			<point x="115" y="811"/>
+			<point x="70" y="811"/>
+			<point x="7" y="809" type="curve"/>
+			<point x="0" y="815" type="line"/>
+			<point x="0" y="887" type="line"/>
+			<point x="8" y="892" type="line"/>
+			<point x="71" y="891"/>
+			<point x="116" y="890"/>
+			<point x="160" y="890" type="curve" smooth="yes"/>
+			<point x="205" y="890"/>
+			<point x="249" y="891"/>
+			<point x="310" y="892" type="curve"/>
+			<point x="320" y="887" type="line"/>
+			<point x="320" y="814" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-26 05:31:41 +0000</string>
+		</dict>
+	</lib>
+</glyph>

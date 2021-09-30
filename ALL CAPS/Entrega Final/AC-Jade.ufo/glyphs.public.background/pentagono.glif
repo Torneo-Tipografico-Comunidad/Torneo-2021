@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pentagono" format="2">
+	<advance width="605"/>
+	<outline>
+		<contour>
+			<point x="153" y="118" type="line"/>
+			<point x="60" y="403" type="line"/>
+			<point x="302" y="579" type="line"/>
+			<point x="545" y="403" type="line"/>
+			<point x="453" y="118" type="line"/>
+		</contour>
+		<contour>
+			<point x="197" y="178" type="line"/>
+			<point x="409" y="178" type="line"/>
+			<point x="474" y="379" type="line"/>
+			<point x="303" y="503" type="line"/>
+			<point x="132" y="379" type="line"/>
+		</contour>
+	</outline>
+</glyph>
