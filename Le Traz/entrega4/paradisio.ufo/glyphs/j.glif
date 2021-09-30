@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="2">
+	<advance width="273"/>
+	<unicode hex="006A"/>
+	<outline>
+		<component base="jdotless"/>
+		<component base="dotaccentcomb" xOffset="155"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 23:21:28 +0000</string>
+		</dict>
+	</lib>
+</glyph>

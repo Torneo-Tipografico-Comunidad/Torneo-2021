@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.case" format="2">
+	<advance width="0"/>
+	<anchor x="5" y="650" name="_top"/>
+	<outline>
+		<contour>
+			<point x="-186" y="737" type="curve" smooth="yes"/>
+			<point x="-186" y="726" type="line"/>
+			<point x="-111" y="726" type="line"/>
+			<point x="-111" y="737" type="line" smooth="yes"/>
+			<point x="-111" y="759"/>
+			<point x="-99" y="769"/>
+			<point x="-79" y="769" type="curve" smooth="yes"/>
+			<point x="-56" y="769"/>
+			<point x="-42" y="759"/>
+			<point x="-16" y="741" type="curve" smooth="yes"/>
+			<point x="4" y="727"/>
+			<point x="32" y="714"/>
+			<point x="79" y="714" type="curve" smooth="yes"/>
+			<point x="153" y="714"/>
+			<point x="186" y="748"/>
+			<point x="186" y="817" type="curve" smooth="yes"/>
+			<point x="186" y="828" type="line"/>
+			<point x="111" y="828" type="line"/>
+			<point x="111" y="817" type="line" smooth="yes"/>
+			<point x="111" y="795"/>
+			<point x="99" y="785"/>
+			<point x="79" y="785" type="curve" smooth="yes"/>
+			<point x="56" y="785"/>
+			<point x="39" y="795"/>
+			<point x="19" y="810" type="curve" smooth="yes"/>
+			<point x="-4" y="827"/>
+			<point x="-27" y="840"/>
+			<point x="-79" y="840" type="curve" smooth="yes"/>
+			<point x="-153" y="840"/>
+			<point x="-186" y="806"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-28 02:44:26 +0000</string>
+		</dict>
+	</lib>
+</glyph>

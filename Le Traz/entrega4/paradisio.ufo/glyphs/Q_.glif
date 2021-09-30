@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+	<advance width="710"/>
+	<unicode hex="0051"/>
+	<outline>
+		<contour>
+			<point x="330" y="12" type="line"/>
+			<point x="457" y="-170" type="line"/>
+			<point x="571" y="-170" type="line"/>
+			<point x="428" y="12" type="line"/>
+		</contour>
+		<component base="O"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 23:08:12 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O</string>
+		</dict>
+	</lib>
+</glyph>

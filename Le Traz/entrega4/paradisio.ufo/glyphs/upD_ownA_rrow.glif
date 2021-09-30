@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upDownArrow" format="2">
+	<advance width="900"/>
+	<unicode hex="2195"/>
+	<guideline x="25" y="0" angle="0"/>
+	<guideline y="-175"/>
+	<guideline x="450" y="0" angle="0"/>
+	<guideline y="250"/>
+	<guideline x="875" y="0" angle="0"/>
+	<guideline y="675"/>
+	<outline>
+		<component base="leftRightArrow" xScale="0" xyScale="-1" yScale="0" yxScale="1" xOffset="200" yOffset="700"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-30 00:56:48 +0000</string>
+		</dict>
+	</lib>
+</glyph>

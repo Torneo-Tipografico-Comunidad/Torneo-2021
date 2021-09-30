@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="2">
+	<advance width="660"/>
+	<unicode hex="0039"/>
+	<outline>
+		<component base="six" xScale="-1" yScale="-1" xOffset="660" yOffset="651"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 19:39:58 +0000</string>
+		</dict>
+	</lib>
+</glyph>

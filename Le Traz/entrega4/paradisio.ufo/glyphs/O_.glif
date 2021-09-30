@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="2">
+	<advance width="710"/>
+	<unicode hex="004F"/>
+	<anchor x="355" y="650" name="top"/>
+	<outline>
+		<contour>
+			<point x="355" y="-15" type="curve" smooth="yes"/>
+			<point x="581" y="-15"/>
+			<point x="665" y="77"/>
+			<point x="665" y="325" type="curve" smooth="yes"/>
+			<point x="665" y="573"/>
+			<point x="581" y="665"/>
+			<point x="355" y="665" type="curve" smooth="yes"/>
+			<point x="129" y="665"/>
+			<point x="45" y="573"/>
+			<point x="45" y="325" type="curve" smooth="yes"/>
+			<point x="45" y="77"/>
+			<point x="129" y="-15"/>
+		</contour>
+		<contour>
+			<point x="355" y="80" type="curve" smooth="yes"/>
+			<point x="202" y="80"/>
+			<point x="145" y="147"/>
+			<point x="145" y="325" type="curve" smooth="yes"/>
+			<point x="145" y="503"/>
+			<point x="202" y="570"/>
+			<point x="355" y="570" type="curve" smooth="yes"/>
+			<point x="508" y="570"/>
+			<point x="565" y="503"/>
+			<point x="565" y="325" type="curve" smooth="yes"/>
+			<point x="565" y="147"/>
+			<point x="508" y="80"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 22:57:33 +0000</string>
+		</dict>
+	</lib>
+</glyph>
