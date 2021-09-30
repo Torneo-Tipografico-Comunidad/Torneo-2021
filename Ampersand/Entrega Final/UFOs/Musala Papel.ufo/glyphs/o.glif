@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="2">
+	<advance width="639.19"/>
+	<unicode hex="006F"/>
+	<guideline x="-647.8" y="0" angle="0"/>
+	<guideline x="17.2" y="298" angle="0"/>
+	<guideline x="17.2" y="503" angle="0"/>
+	<guideline x="17.2" y="195" angle="0"/>
+	<guideline x="17.2" y="430" angle="0"/>
+	<guideline x="281.2" y="0" angle="0"/>
+	<guideline x="159.2" y="0" angle="0"/>
+	<guideline x="409.2" y="0" angle="0"/>
+	<guideline x="17.2" y="416" angle="0"/>
+	<guideline x="17.2" y="-11" angle="0"/>
+	<anchor x="327.84313" y="600" name="top"/>
+	<anchor x="289.45415" y="176.00595" name="bottom"/>
+	<anchor x="282" y="300" name="center"/>
+	<anchor x="537.19" y="600" name="topright"/>
+	<anchor x="502" y="10" name="ogonek"/>
+	<outline>
+		<contour>
+			<point x="321.3795" y="-11" type="curve" smooth="yes"/>
+			<point x="475.92005" y="-11"/>
+			<point x="589.193" y="101.21318"/>
+			<point x="589.193" y="295.04154" type="curve" smooth="yes"/>
+			<point x="589.193" y="518.96933"/>
+			<point x="471.92005" y="600.957"/>
+			<point x="322.578" y="600.957" type="curve" smooth="yes"/>
+			<point x="164.91663" y="600.957"/>
+			<point x="50" y="505.96933"/>
+			<point x="50" y="282.04154" type="curve" smooth="yes"/>
+			<point x="50" y="88.21318"/>
+			<point x="164.91663" y="-11"/>
+		</contour>
+		<contour>
+			<point x="321.3795" y="62.957" type="curve" smooth="yes"/>
+			<point x="211.91663" y="62.957"/>
+			<point x="153.153" y="127.321"/>
+			<point x="153.153" y="296.04154" type="curve" smooth="yes"/>
+			<point x="153.153" y="453.08311"/>
+			<point x="204.91663" y="527.043"/>
+			<point x="322.578" y="527.043" type="curve" smooth="yes"/>
+			<point x="421.40011" y="527.043"/>
+			<point x="482.04" y="467.178"/>
+			<point x="482.04" y="296.345" type="curve" smooth="yes"/>
+			<point x="482.04" y="175.197"/>
+			<point x="443.43998" y="62.957"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 06:52:46 +0000</string>
+		</dict>
+	</lib>
+</glyph>

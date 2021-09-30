@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="2">
+	<advance width="403"/>
+	<unicode hex="0028"/>
+	<outline>
+		<contour>
+			<point x="55.22008" y="449.86385" type="curve"/>
+			<point x="205.00997" y="430.09971" type="line"/>
+			<point x="205.12136" y="552.13466"/>
+			<point x="206.478" y="618.94135"/>
+			<point x="223" y="663" type="curve"/>
+			<point x="250" y="709"/>
+			<point x="328.538" y="751"/>
+			<point x="359" y="764" type="curve"/>
+			<point x="323.389" y="835.266" type="line"/>
+			<point x="269.09036" y="829.82262"/>
+			<point x="88.29707" y="749.26123"/>
+		</contour>
+		<contour>
+			<point x="205.12699" y="372.16991" type="curve"/>
+			<point x="51.5412" y="405.79614" type="line"/>
+			<point x="50.52882" y="388.2176"/>
+			<point x="50" y="369.96013"/>
+			<point x="50" y="351" type="curve" smooth="yes"/>
+			<point x="50" y="89"/>
+			<point x="227.233" y="-76"/>
+			<point x="356" y="-81" type="curve"/>
+			<point x="373" y="-2.425" type="line"/>
+			<point x="275.21157" y="29.86501"/>
+			<point x="208.41351" y="69.93493"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-22 03:43:30 +0000</string>
+		</dict>
+	</lib>
+</glyph>

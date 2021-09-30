@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="2">
+	<advance width="655.83"/>
+	<unicode hex="00DC"/>
+	<outline>
+		<component base="U"/>
+		<component base="dieresis" xOffset="146.872" yOffset="56.652"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-22 19:54:26 +0000</string>
+		</dict>
+	</lib>
+</glyph>

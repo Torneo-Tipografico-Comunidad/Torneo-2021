@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="2">
+	<advance width="543.78"/>
+	<unicode hex="0046"/>
+	<guideline x="70.72" y="902.32" angle="270"/>
+	<guideline x="215" y="902.32" angle="270"/>
+	<guideline x="402.2" y="906.48" angle="270"/>
+	<guideline x="542.2" y="906.48" angle="270"/>
+	<outline>
+		<contour>
+			<point x="67.86" y="0" type="curve"/>
+			<point x="215.86" y="0" type="line"/>
+			<point x="215.86" y="744.941" type="line"/>
+			<point x="178.629" y="711.471" type="line"/>
+			<point x="299.534" y="711.471"/>
+			<point x="442.062" y="708.937"/>
+			<point x="498.779" y="704.937" type="curve"/>
+			<point x="498.779" y="799.937" type="line"/>
+			<point x="163.264" y="800.438" type="line" smooth="yes"/>
+			<point x="143.995" y="800.467"/>
+			<point x="100.309" y="787.751"/>
+			<point x="65.003" y="779.471" type="curve"/>
+			<point x="71.781" y="725.472"/>
+			<point x="76.355" y="645.948"/>
+			<point x="80.905" y="588.414" type="curve"/>
+			<point x="80.915" y="153.611" type="line"/>
+			<point x="80.915" y="128.688"/>
+			<point x="73.508" y="41.229"/>
+		</contour>
+		<contour>
+			<point x="202.003" y="341" type="line"/>
+			<point x="433.003" y="341" type="line"/>
+			<point x="433.003" y="435" type="line"/>
+			<point x="342.85" y="427.602"/>
+			<point x="292.13" y="426.622"/>
+			<point x="202.003" y="435" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-24 17:28:48 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>I</string>
+		</dict>
+	</lib>
+</glyph>

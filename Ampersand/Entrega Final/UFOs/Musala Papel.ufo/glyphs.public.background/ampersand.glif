@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand" format="2">
+	<advance width="645.74"/>
+	<outline>
+		<contour>
+			<point x="224.7" y="-11" type="curve" smooth="yes"/>
+			<point x="307.348" y="-11"/>
+			<point x="386.894" y="52.621"/>
+			<point x="432.894" y="78.812" type="curve"/>
+			<point x="393.582" y="145.273" type="line"/>
+			<point x="368.582" y="122.273"/>
+			<point x="299.388" y="73"/>
+			<point x="255.132" y="73" type="curve" smooth="yes"/>
+			<point x="198.225" y="73"/>
+			<point x="149.854" y="118.466"/>
+			<point x="149.854" y="300" type="curve" smooth="yes"/>
+			<point x="149.854" y="466"/>
+			<point x="220.854" y="513"/>
+			<point x="267.854" y="513" type="curve" smooth="yes"/>
+			<point x="298.384" y="513"/>
+			<point x="380.461" y="479"/>
+			<point x="400.461" y="466" type="curve"/>
+			<point x="422.591" y="541.878" type="line"/>
+			<point x="404.591" y="561.878"/>
+			<point x="285.278" y="600"/>
+			<point x="229.241" y="600" type="curve" smooth="yes"/>
+			<point x="108.526" y="600"/>
+			<point x="19.999" y="502.942"/>
+			<point x="19.999" y="282.522" type="curve" smooth="yes"/>
+			<point x="19.999" y="75"/>
+			<point x="140.67" y="-11"/>
+		</contour>
+	</outline>
+</glyph>

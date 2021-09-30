@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="2">
+	<advance width="580.12"/>
+	<unicode hex="0037"/>
+	<outline>
+		<contour>
+			<point x="119.742" y="-0.009" type="line"/>
+			<point x="276.424" y="-0.216" type="line"/>
+			<point x="304.419" y="106.669"/>
+			<point x="511.312" y="642.682"/>
+			<point x="525.888" y="668.808" type="curve"/>
+			<point x="540.121" y="760.152" type="line"/>
+			<point x="495.97877" y="757.65352" type="line"/>
+			<point x="415.44222" y="635.60388"/>
+			<point x="399.24412" y="607.88223"/>
+			<point x="390.866" y="591.707" type="curve" smooth="yes"/>
+			<point x="380.741" y="572.157"/>
+			<point x="240.167" y="320.296"/>
+			<point x="165.341" y="135.683" type="curve"/>
+		</contour>
+		<contour>
+			<point x="39.995" y="659.152" type="line"/>
+			<point x="84.85693" y="660.57473"/>
+			<point x="260.40197" y="657.56216"/>
+			<point x="378.29827" y="656.46895" type="curve"/>
+			<point x="427.52776" y="754.92972" type="line"/>
+			<point x="305.58725" y="750.81726"/>
+			<point x="214.75111" y="754.52335"/>
+			<point x="89.995" y="763.152" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-23 03:45:04 +0000</string>
+		</dict>
+	</lib>
+</glyph>

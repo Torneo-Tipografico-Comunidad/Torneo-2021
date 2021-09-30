@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="southEastArro" format="2">
+	<advance width="845"/>
+	<outline>
+		<contour>
+			<point x="254.005" y="372.66472" type="line"/>
+			<point x="109" y="722.20172" type="line"/>
+			<point x="112" y="729.20172"/>
+			<point x="147" y="764.20172"/>
+			<point x="160" y="769.20172" type="curve" smooth="yes"/>
+			<point x="172" y="775.20172"/>
+			<point x="279" y="775.20172"/>
+			<point x="289" y="772.20172" type="curve"/>
+			<point x="298" y="710.20172"/>
+			<point x="333" y="619.20172"/>
+			<point x="353" y="570.20172" type="curve"/>
+			<point x="393.656" y="469.60372" type="line"/>
+		</contour>
+		<contour>
+			<point x="417.288" y="415.47672" type="line"/>
+			<point x="508" y="215.20172" type="line"/>
+			<point x="510" y="212.20172"/>
+			<point x="512" y="207.20172"/>
+			<point x="515" y="201.20172" type="curve"/>
+			<point x="488" y="217.20172" type="line"/>
+			<point x="545" y="296.20172"/>
+			<point x="601" y="372.20172"/>
+			<point x="669" y="474.20172" type="curve"/>
+			<point x="795" y="372.20172" type="line"/>
+			<point x="725" y="289.20172" type="line"/>
+			<point x="678" y="221.20172"/>
+			<point x="524" y="6.20172"/>
+			<point x="515" y="2.20172" type="curve"/>
+			<point x="509" y="-0.79828"/>
+			<point x="239" y="36.20172"/>
+			<point x="159" y="49.20172" type="curve"/>
+			<point x="50" y="56.20172" type="line"/>
+			<point x="64" y="217.20172" type="line"/>
+			<point x="181" y="196.20172"/>
+			<point x="272" y="185.20172"/>
+			<point x="366" y="170.20172" type="curve"/>
+			<point x="355" y="143.20172" type="line"/>
+			<point x="273.922" y="325.78872" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 01:05:45 +0000</string>
+		</dict>
+	</lib>
+</glyph>

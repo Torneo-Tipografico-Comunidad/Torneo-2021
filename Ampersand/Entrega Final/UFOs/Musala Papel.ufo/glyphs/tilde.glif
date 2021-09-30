@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="2">
+	<advance width="468.87"/>
+	<unicode hex="02DC"/>
+	<anchor x="42.00424" y="600" name="_top"/>
+	<outline>
+		<contour>
+			<point x="150.31815" y="748.62724" type="curve" smooth="yes"/>
+			<point x="194.8082" y="748.62724"/>
+			<point x="235.51717" y="685.25279"/>
+			<point x="298.65971" y="685.25279" type="curve" smooth="yes"/>
+			<point x="376.07232" y="685.25279"/>
+			<point x="438.35255" y="732.10788"/>
+			<point x="433.35255" y="829.32509" type="curve"/>
+			<point x="372.85708" y="829.34669" type="line"/>
+			<point x="377.85708" y="770.48733"/>
+			<point x="336.82049" y="765.97209"/>
+			<point x="317.77749" y="765.97209" type="curve" smooth="yes"/>
+			<point x="273.97275" y="765.97209"/>
+			<point x="233.25495" y="829.34667"/>
+			<point x="169.43674" y="829.34667" type="curve" smooth="yes"/>
+			<point x="92.02406" y="829.34667"/>
+			<point x="29.7435" y="782.49117"/>
+			<point x="34.7435" y="685.27495" type="curve"/>
+			<point x="95.23883" y="685.25284" type="line"/>
+			<point x="90.23883" y="744.11209"/>
+			<point x="131.27594" y="748.62724"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 06:53:17 +0000</string>
+		</dict>
+	</lib>
+</glyph>

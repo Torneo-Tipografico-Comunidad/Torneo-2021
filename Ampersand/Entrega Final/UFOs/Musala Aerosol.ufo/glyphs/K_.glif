@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="2">
+	<advance width="683.62"/>
+	<unicode hex="004B"/>
+	<guideline x="772.14" y="779.48" angle="0"/>
+	<outline>
+		<contour>
+			<point x="80.90621" y="274.80334" type="line"/>
+			<point x="215.62" y="520.16461" type="line"/>
+			<point x="215.62" y="789" type="line"/>
+			<point x="209.62" y="792"/>
+			<point x="173.62" y="800"/>
+			<point x="162.62" y="800" type="curve" smooth="yes"/>
+			<point x="152.62" y="800"/>
+			<point x="76.997" y="783.471"/>
+			<point x="64.997" y="779.471" type="curve"/>
+			<point x="71.775" y="725.472"/>
+			<point x="76.349" y="645.948"/>
+			<point x="80.899" y="588.414" type="curve"/>
+		</contour>
+		<contour>
+			<point x="67.854" y="0" type="curve"/>
+			<point x="215.62" y="0" type="line"/>
+			<point x="215.62" y="264.39854" type="line"/>
+			<point x="617.404" y="763.341" type="line"/>
+			<point x="606.78" y="773.915"/>
+			<point x="577.846" y="799.778"/>
+			<point x="569.814" y="799.778" type="curve" smooth="yes"/>
+			<point x="561.504" y="799.778"/>
+			<point x="472.971" y="792.778"/>
+			<point x="458.971" y="788.778" type="curve"/>
+			<point x="423.987" y="729.727"/>
+			<point x="319.993" y="563.37"/>
+			<point x="290.246" y="523.752" type="curve"/>
+			<point x="80.90754" y="216.95866" type="line"/>
+			<point x="80.909" y="153.611" type="line" smooth="yes"/>
+			<point x="80.909" y="128.688"/>
+			<point x="73.502" y="41.229"/>
+		</contour>
+		<contour>
+			<point x="297.55003" y="309.88537" type="line"/>
+			<point x="465.62" y="0" type="line"/>
+			<point x="633.62" y="0" type="line"/>
+			<point x="598.987" y="47.198"/>
+			<point x="561.377" y="98.358"/>
+			<point x="531.669" y="143.8" type="curve"/>
+			<point x="413.969" y="354.885" type="line"/>
+			<point x="385.35251" y="400.64672" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-25 04:50:46 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>I</string>
+		</dict>
+	</lib>
+</glyph>

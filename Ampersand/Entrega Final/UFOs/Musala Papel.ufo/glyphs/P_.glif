@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="2">
+	<advance width="617"/>
+	<unicode hex="0050"/>
+	<guideline x="10.86" y="0" angle="0"/>
+	<guideline x="-20.14" y="535" angle="0"/>
+	<outline>
+		<contour>
+			<point x="65" y="0" type="curve"/>
+			<point x="181" y="0" type="line"/>
+			<point x="181" y="719" type="line"/>
+			<point x="157" y="693" type="line"/>
+			<point x="174" y="694"/>
+			<point x="223" y="698"/>
+			<point x="257" y="698" type="curve" smooth="yes"/>
+			<point x="361.06105" y="698"/>
+			<point x="446" y="656.89307"/>
+			<point x="446" y="518.26322" type="curve" smooth="yes"/>
+			<point x="446" y="361.26322"/>
+			<point x="351.4375" y="313"/>
+			<point x="277.29688" y="313" type="curve" smooth="yes"/>
+			<point x="216.44531" y="313"/>
+			<point x="174" y="320"/>
+			<point x="153" y="327" type="curve"/>
+			<point x="120" y="264" type="line"/>
+			<point x="157" y="254"/>
+			<point x="242.90265" y="239"/>
+			<point x="290.96569" y="239" type="curve" smooth="yes"/>
+			<point x="397.948" y="239"/>
+			<point x="552" y="312.97765"/>
+			<point x="552" y="502.97765" type="curve" smooth="yes"/>
+			<point x="552" y="703"/>
+			<point x="431.75417" y="771"/>
+			<point x="221" y="771" type="curve" smooth="yes"/>
+			<point x="157.6807" y="771"/>
+			<point x="67" y="750"/>
+			<point x="67" y="750" type="curve"/>
+			<point x="76" y="583" type="line"/>
+			<point x="78" y="154" type="line"/>
+			<point x="78" y="154"/>
+			<point x="65" y="0"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-29 06:52:46 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>I</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>B</string>
+		</dict>
+	</lib>
+</glyph>
